@@ -20,7 +20,7 @@ description: "Massachusetts Institute of Technology has always been associated w
   \ to solve real problems. In a very tangible way, MIT faculty and graduates invent\
   \ the future, and entrepreneurship\u2014the building of new businesses\u2014is often\
   \ the road to that future.\n\n![Title screen from the video, 'The Ecosystem: Nurturing\
-  \ Entrepreneurship at MIT'.](https://ocw.mit.edu/courses/entrepreneurship/ecosystem_slate2.png)\
+  \ Entrepreneurship at MIT'.](https://ocw.mit.edu/courses/entrepreneurship/ecosystem_slate2.png)\_\
   \  \n[Watch this video introduction](https://www.youtube.com/watch?v=WSkDqpBctfA)\
   \ to entrepreneurship at MIT.\n\nThe report \u201C[Entrepreneurship and Innovation\
   \ at MIT](http://web.mit.edu/innovate/entrepreneurship2015.pdf)\u201D examines the\
@@ -30,7 +30,7 @@ description: "Massachusetts Institute of Technology has always been associated w
   \ revenue. The cumulative result is the equivalent of the 10th largest economy in\
   \ the world. This rich legacy of high-impact companies spans a wide range of industries;\
   \ recent examples include A123 Systems, Akamai, iRobot, InVivo Therapeutics and\
-  \ Dropbox.\n\nThe following courses represent a selection of the \"core\" entrepreneurship-related\
+  \ Dropbox.\n\nThe following courses represent a selection of \"core\" entrepreneurship-related\
   \ courses offered at MIT."
 title: Entrepreneurship Core Courses (5)
 uid: b4b1b880-6f94-4a24-b638-1854abbd8744
