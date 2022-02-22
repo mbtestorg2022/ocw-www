@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/ocw-www/49add2a2a8f640c886f9d90a690abbc9_peanut-butter-jelly.jpg
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/49add2a2a8f640c886f9d90a690abbc9_peanut-butter-jelly.jpg
 filetype: Image
 metadata:
   caption: ''
