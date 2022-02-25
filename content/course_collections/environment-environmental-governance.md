@@ -12,6 +12,6 @@ courses:
 - id: 10-805j-technology-law-and-the-working-environment-spring-2006
   title: Technology, Law, and the Working Environment
 description: TBW.
-title: 'Environment: Environmental Governance'
+title: 'Environment: Environmental Governance (5)'
 uid: 2b1bacf3-566f-43b5-bb90-5d099535fa62
 ---
