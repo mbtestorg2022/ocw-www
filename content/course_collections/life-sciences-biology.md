@@ -12,6 +12,6 @@ courses:
 - id: 7-014-introductory-biology-spring-2005
   title: Introductory Biology
 description: TBW.
-title: 'Life Sciences: Biology'
+title: 'Life Sciences: Biology (5)'
 uid: 67d8a24e-f263-44c0-a715-0ab7ffbe4595
 ---
