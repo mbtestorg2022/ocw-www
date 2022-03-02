@@ -16,8 +16,12 @@ Many of the Energy Minor subjects are represented on OCW, and listed below. In a
 - [Notify me of course updates via RSS](https://ocw.mit.edu/rss/new/mit-newcourses-energy.xml)
 - [Other RSS feeds](https://ocw.mit.edu/help/rss)
 
-{{< resource_link 6d1bd1a8-7f02-455d-ba52-da7fa99981de "Energy Minor Core Courses (5)" >}}
+### {{< resource_link 6d1bd1a8-7f02-455d-ba52-da7fa99981de "Energy Minor Core Courses (5)" >}}
 
-{{< resource_link 51bbeec7-d736-4756-a246-664f03b45d83 "Energy Minor Elective Courses (5)" >}}
+ 
 
-{{< resource_link 92f5bbf4-8a2a-4df6-898a-9eabb4755905 "Other Energy Courses (5)" >}}
+### {{< resource_link 51bbeec7-d736-4756-a246-664f03b45d83 "Energy Minor Elective Courses (5)" >}}
+
+ 
+
+### {{< resource_link 92f5bbf4-8a2a-4df6-898a-9eabb4755905 "Other Energy Courses (5)" >}}
