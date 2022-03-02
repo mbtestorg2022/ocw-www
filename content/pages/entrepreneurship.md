@@ -30,6 +30,6 @@ Those interested in a general introduction to entrepreneurship as taught at MIT 
 - [Notify me of course updates via RSS](http://ocw.mit.edu/rss/new/mit-newcourses-entrepreneurship.xml)
 - [Other RSS feeds](https://ocw.mit.edu/help/rss)
 
-{{< resource_link b4b1b880-6f94-4a24-b638-1854abbd8744 "Entrepreneurship Core Courses (5)" >}}
+{{% resource_link b4b1b880-6f94-4a24-b638-1854abbd8744 "Entrepreneurship Core Courses (5)" %}}
 
-{{< resource_link 3a6636bd-6e0f-4b0e-80cd-5224358a3ac1 "Entrepreneurship Supplementary Courses (5)" >}}
+{{% resource_link 3a6636bd-6e0f-4b0e-80cd-5224358a3ac1 "Entrepreneurship Supplementary Courses (5)" %}}

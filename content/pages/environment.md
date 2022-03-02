@@ -18,10 +18,10 @@ Use OCW materials from across these fields to expand your horizons and learn mor
 - [Notify me of course updates via RSS](https://ocw.mit.edu/rss/new/mit-newcourses-environment.xml)
 - [Other RSS feeds](https://ocw.mit.edu/help/rss)
 
-{{< resource_link f92bf6bd-def5-407d-822c-8f22480c44a6 "Environment: Earth Systems and Climate Science (5)" >}}
+{{% resource_link f92bf6bd-def5-407d-822c-8f22480c44a6 "Environment: Earth Systems and Climate Science (5)" %}}
 
-{{< resource_link 13c50662-0a7f-426a-a618-d80eda3ac6bf "Environment: Engineering for Sustainability (5)" >}}
+{{% resource_link 13c50662-0a7f-426a-a618-d80eda3ac6bf "Environment: Engineering for Sustainability (5)" %}}
 
-{{< resource_link 2b1bacf3-566f-43b5-bb90-5d099535fa62 "Environment: Environmental Governance (5)" >}}
+{{% resource_link 2b1bacf3-566f-43b5-bb90-5d099535fa62 "Environment: Environmental Governance (5)" %}}
 
-{{< resource_link 32f9031f-21eb-4887-a89e-95de23d8eb16 "Environment: Environmental Histories and Cultures (5)" >}}
+{{% resource_link 32f9031f-21eb-4887-a89e-95de23d8eb16 "Environment: Environmental Histories and Cultures (5)" %}}
