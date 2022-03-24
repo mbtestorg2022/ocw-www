@@ -1,7 +1,9 @@
 ---
 content_type: course-collection
 courselists:
-  content: []
+  content:
+  - b4b1b880-6f94-4a24-b638-1854abbd8744
+  - 3a6636bd-6e0f-4b0e-80cd-5224358a3ac1
   website: ocw-www
 cover-image:
   content: ae2764cf-b089-4524-9d85-f4d77058ae6f
@@ -35,7 +37,15 @@ description: "Massachusetts Institute of Technology has always been associated w
   \ as taught at MIT should visit [_15.390 New Enterprises_](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013)\
   \ and [_15.S21 Nuts and Bolts of Business Plans_](https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014).\
   \ Both courses have video resources."
-featured-courses: []
+featured-courses:
+- id: 15-390-new-enterprises-spring-2013
+  title: New Enterprises
+- id: 15-s21-nuts-and-bolts-of-business-plans-january-iap-2014
+  title: Nuts and Bolts of Business Plans
+- id: ids-910-leadership-development-fall-2014
+  title: Leadership Development
+- id: 15-369-seminar-in-corporate-entrepreneurship-fall-2015
+  title: Seminar in Corporate Entrepreneurship
 title: Entrepreneurship
 uid: 35e4f665-bd5a-4805-a744-2d316c961309
 ---
