@@ -7,7 +7,7 @@ courselists:
   - 92f5bbf4-8a2a-4df6-898a-9eabb4755905
   website: ocw-www
 cover-image:
-  content: ''
+  content: 9153355c-44bf-48bc-8e0f-1c63395b1c49
   website: ocw-www
 description: "\_![photo of windmill](https://ocw.mit.edu/courses/energy-courses/dhp_energy-courses.jpg)Photo\
   \ by Flickr user [Changhua Coast Conservation Action](http://www.flickr.com/photos/waders/).\n\
