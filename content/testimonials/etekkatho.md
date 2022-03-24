@@ -4,8 +4,8 @@ draft: true
 image:
   content: 0517edb7-9cbf-4d76-8d38-0c4e436b2706
   website: ocw-www
-leadquote: "\"MIT OCW helps students to learn not only the subject materials but also\
-  \ how to give presentations.\u201D"
+leadquote: MIT OCW helps students to learn not only the subject materials but also
+  how to give presentations.
 location: Myanmar
 name: Tekkatho Foundation
 occupation: Education
