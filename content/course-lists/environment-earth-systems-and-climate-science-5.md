@@ -1,5 +1,5 @@
 ---
-content_type: course_collections
+content_type: course-lists
 courses:
 - id: 1-018j-ecology-i-the-earth-system-fall-2009
   title: 'Ecology I: The Earth System'
@@ -31,6 +31,7 @@ description: "Like so many of the big challenges taken on at MIT, environmental 
   \ list employs the undergraduate minor\u2019s four topic pillars. Many of the graduate-level\
   \ courses are part of the\_[MIT Sloan School of Management Sustainability Certificate](http://mitsloan.mit.edu/sustainability/sustainability-certificate)\
   \ curriculum."
+draft: false
 title: 'Environment: Earth Systems and Climate Science (5)'
 uid: f92bf6bd-def5-407d-822c-8f22480c44a6
 ---
