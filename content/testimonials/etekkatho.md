@@ -2,7 +2,7 @@
 content_type: testimonials
 draft: true
 image:
-  content: 0517edb7-9cbf-4d76-8d38-0c4e436b2706
+  content: c670f6a3-4eca-49b1-9141-d2447a2019a5
   website: ocw-www
 leadquote: MIT OCW helps students to learn not only the subject materials but also
   how to give presentations.
