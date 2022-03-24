@@ -1,5 +1,5 @@
 ---
-content_type: course_collections
+content_type: course-lists
 courses: []
 description: ''
 title: Open Learning Library
