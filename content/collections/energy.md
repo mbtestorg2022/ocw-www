@@ -9,8 +9,7 @@ courselists:
 cover-image:
   content: 9153355c-44bf-48bc-8e0f-1c63395b1c49
   website: ocw-www
-description: "\_![photo of windmill](https://ocw.mit.edu/courses/energy-courses/dhp_energy-courses.jpg)\n\
-  \nPhoto by Flickr user [Changhua Coast Conservation Action](http://www.flickr.com/photos/waders/).\n\
+description: "\_\n\nPhoto by Flickr user [Changhua Coast Conservation Action](http://www.flickr.com/photos/waders/).\n\
   \nSeeking to understand and transform the world\u2019s energy systems, MIT researchers\
   \ and students investigate all aspects of energy. They discover new ways of generating\
   \ and storing energy, as in creating biofuels from plant waste and in holding electricity\
