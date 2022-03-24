@@ -1,5 +1,5 @@
 ---
-content_type: course_collections
+content_type: course-lists
 courses:
 - id: 1-011-project-evaluation-spring-2011
   title: Project Evaluation
