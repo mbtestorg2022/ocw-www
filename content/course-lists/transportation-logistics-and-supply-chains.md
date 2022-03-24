@@ -1,5 +1,5 @@
 ---
-content_type: course_collections
+content_type: course-lists
 courses:
 - id: 1-203j-logistical-and-transportation-planning-methods-fall-2006
   title: Logistical and Transportation Planning Methods

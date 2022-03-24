@@ -1,5 +1,5 @@
 ---
-content_type: course_collections
+content_type: course-lists
 courses:
 - id: 6-254-game-theory-with-engineering-applications-spring-2010
   title: Game Theory with Engineering Applications

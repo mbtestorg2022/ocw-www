@@ -1,5 +1,5 @@
 ---
-content_type: course_collections
+content_type: course-lists
 courses:
 - id: 2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002
   title: Ocean Wave Interaction with Ships and Offshore Energy Systems (13.022)

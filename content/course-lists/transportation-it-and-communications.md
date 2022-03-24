@@ -1,5 +1,5 @@
 ---
-content_type: course_collections
+content_type: course-lists
 courses:
 - id: 6-033-computer-system-engineering-spring-2018
   title: Computer System Engineering

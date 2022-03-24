@@ -1,5 +1,5 @@
 ---
-content_type: course_collections
+content_type: course-lists
 courses:
 - id: 2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009
   title: 'Exploring Sea, Space, & Earth: Fundamentals of Engineering Design'

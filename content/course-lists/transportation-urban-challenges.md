@@ -1,5 +1,5 @@
 ---
-content_type: course_collections
+content_type: course-lists
 courses:
 - id: 1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005
   title: An Introduction to Intelligent Transportation Systems

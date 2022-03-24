@@ -1,5 +1,5 @@
 ---
-content_type: course_collections
+content_type: course-lists
 courses:
 - id: 2-57-nano-to-macro-transport-processes-spring-2012
   title: Nano-to-Macro Transport Processes

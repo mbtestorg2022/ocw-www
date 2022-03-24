@@ -1,5 +1,5 @@
 ---
-content_type: course_collections
+content_type: course-lists
 courses:
 - id: 6-092-introduction-to-programming-in-java-january-iap-2010
   title: Introduction to Programming in Java

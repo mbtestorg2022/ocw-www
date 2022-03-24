@@ -1,5 +1,5 @@
 ---
-content_type: course_collections
+content_type: course-lists
 courses:
 - id: 1-201j-transportation-systems-analysis-demand-and-economics-fall-2008
   title: 'Transportation Systems Analysis: Demand and Economics'

@@ -1,5 +1,5 @@
 ---
-content_type: course_collections
+content_type: course-lists
 courses:
 - id: 1-253j-transportation-policy-and-environmental-limits-spring-2004
   title: Transportation Policy and Environmental Limits

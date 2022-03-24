@@ -1,5 +1,5 @@
 ---
-content_type: course_collections
+content_type: course-lists
 courses:
 - id: 2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004
   title: Maneuvering and Control of Surface and Underwater Vehicles (13.49)

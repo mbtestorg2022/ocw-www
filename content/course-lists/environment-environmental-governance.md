@@ -1,5 +1,5 @@
 ---
-content_type: course_collections
+content_type: course-lists
 courses:
 - id: 1-252j-urban-transportation-planning-fall-2016
   title: Urban Transportation Planning

@@ -1,5 +1,5 @@
 ---
-content_type: course_collections
+content_type: course-lists
 courses:
 - id: 6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016
   title: Introduction to Computer Science and Programming in Python

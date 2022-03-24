@@ -1,5 +1,5 @@
 ---
-content_type: course_collections
+content_type: course-lists
 courses:
 - id: 3-094-materials-in-human-experience-spring-2004
   title: Materials in Human Experience

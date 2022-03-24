@@ -1,5 +1,5 @@
 ---
-content_type: course_collections
+content_type: course-lists
 courses:
 - id: 1-206j-airline-schedule-planning-spring-2003
   title: Airline Schedule Planning

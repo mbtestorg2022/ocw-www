@@ -1,5 +1,5 @@
 ---
-content_type: course_collections
+content_type: course-lists
 courses:
 - id: 6-931-development-of-inventions-and-creative-ideas-spring-2008
   title: Development of Inventions and Creative Ideas

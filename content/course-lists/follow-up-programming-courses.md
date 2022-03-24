@@ -1,5 +1,5 @@
 ---
-content_type: course_collections
+content_type: course-lists
 courses:
 - id: 6-005-elements-of-software-construction-fall-2008
   title: Elements of Software Construction
