@@ -1,8 +1,8 @@
 ---
 content_type: promos
-draft: true
+draft: false
 image:
-  content: ab040f8c-8ca0-4157-b686-11dcc409cb78
+  content: 4b9140df-f89a-4eca-a51c-b350f163bbe3
   website: ocw-www
 link_title: View resources
 link_url: https://ocwnext.odl.mit.edu/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/
