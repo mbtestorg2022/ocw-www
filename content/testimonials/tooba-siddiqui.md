@@ -2,7 +2,7 @@
 content_type: testimonials
 draft: true
 image:
-  content: ''
+  content: cf808ef4-7f5c-4576-8680-4b319f6f0c1b
   website: ocw-www
 leadquote: "\u201CStudying in a country where there are political issues going on,\
   \ such as strikes, drone attacks, target killing, etc., it\u2019s very difficult\
