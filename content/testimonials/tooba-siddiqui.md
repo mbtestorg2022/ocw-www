@@ -4,10 +4,10 @@ draft: false
 image:
   content: cf808ef4-7f5c-4576-8680-4b319f6f0c1b
   website: ocw-www
-leadquote: "\u201CStudying in a country where there are political issues going on,\
-  \ such as strikes, drone attacks, target killing, etc., it\u2019s very difficult\
-  \ to study. But thanks to OCW, now I do not have to worry about keeping [up] with\
-  \ the competing world.\u201D"
+leadquote: "Studying in a country where there are political issues going on, such\
+  \ as strikes, drone attacks, target killing, etc., it\u2019s very difficult to study.\
+  \ But thanks to OCW, now I do not have to worry about keeping [up] with the competing\
+  \ world."
 location: Pakistan
 name: Tooba Siddiqui
 occupation: Student
