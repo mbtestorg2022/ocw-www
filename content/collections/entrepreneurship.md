@@ -64,14 +64,8 @@ description: "Massachusetts Institute of Technology has always been associated w
   \ and [_15.S21 Nuts and Bolts of Business Plans_](https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014).\
   \ Both courses have video resources."
 featured-courses:
-- id: 15-390-new-enterprises-spring-2013
-  title: New Enterprises
-- id: 15-s21-nuts-and-bolts-of-business-plans-january-iap-2014
-  title: Nuts and Bolts of Business Plans
-- id: ids-910-leadership-development-fall-2014
-  title: Leadership Development
-- id: 15-369-seminar-in-corporate-entrepreneurship-fall-2015
-  title: Seminar in Corporate Entrepreneurship
+  content: 172f0495-728d-44a8-bae5-1fdc7ff3e042
+  website: ocw-www
 title: Entrepreneurship
 uid: 35e4f665-bd5a-4805-a744-2d316c961309
 ---
