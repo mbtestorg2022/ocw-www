@@ -40,8 +40,8 @@ This is a human-readable summary of (and not a substitute for) the [license](htt
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
-**Share** — copy and redistribute the material in any medium or format     
-**Adapt** — remix, transform, and build upon the material     
+**Share** — copy and redistribute the material in any medium or format      
+**Adapt** — remix, transform, and build upon the material      
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
  
@@ -50,17 +50,17 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **Under the following terms:**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-![](https://ocw.mit.edu/terms/by.png)    
+![](https://ocw.mit.edu/terms/by.png)     
  
 {{< tdclose >}}{{< tdopen >}}
 **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-![](https://ocw.mit.edu/terms/nc.png)    
+![](https://ocw.mit.edu/terms/nc.png)     
  
 {{< tdclose >}}{{< tdopen >}}
 **Noncommercial** — You may not use the material for commercial purposes.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-![](https://ocw.mit.edu/terms/sa.png)    
+![](https://ocw.mit.edu/terms/sa.png)     
  
 {{< tdclose >}}{{< tdopen >}}
 **Share Alike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
@@ -73,7 +73,7 @@ No additional restrictions — You may not apply legal terms or technological me
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **Notices:**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.     
+You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.      
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -89,13 +89,13 @@ No warranties are given. The license may not give you all of the permissions nec
 
 *Non-commercial use* means that users may not sell, profit from, or commercialize OCW materials or works derived from them. The guidelines below are intended to help users determine whether or not their use of OCW materials would be permitted by MIT under the "non-commercial" restriction. Note that there are additional requirements (attribution and share alike) spelled out in our [license](https://ocw.mit.edu/terms/#cc).
 
-1. **Commercialization is prohibited.** Users may *not* directly sell or profit from OCW materials or from works derived from OCW materials.      
+1. **Commercialization is prohibited.** Users may *not* directly sell or profit from OCW materials or from works derived from OCW materials.       
       
     Example: A commercial education or training business may not offer courses based on OCW materials if students pay a fee for those courses and the business intends to profit as a result.
-2. **Determination of commercial vs. non-commercial purpose is based on the use,** ***not*** **the user.** Materials may be used by individuals, institutions, governments, corporations, or other business whether for-profit or non-profit so long as the use itself is not a commercialization of the materials or a use that is directly intended to generate sales or profit.      
+2. **Determination of commercial vs. non-commercial purpose is based on the use,** ***not*** **the user.** Materials may be used by individuals, institutions, governments, corporations, or other business whether for-profit or non-profit so long as the use itself is not a commercialization of the materials or a use that is directly intended to generate sales or profit.       
       
     Example: A corporation may use OCW materials for internal professional development and training purposes.
-3. **Incidental charges to recover reasonable reproduction costs may be permitted.** Recovery of nominal actual costs for copying small amounts (under 1000 copies) of OCW content on paper or CDs is allowed for educational purposes so long as there is no profit motive and so long as the intended use of the copies is in compliance with all license terms. Students must be informed that the materials are freely available on the OCW Web site and that their purchase of copied materials is optional.      
+3. **Incidental charges to recover reasonable reproduction costs may be permitted.** Recovery of nominal actual costs for copying small amounts (under 1000 copies) of OCW content on paper or CDs is allowed for educational purposes so long as there is no profit motive and so long as the intended use of the copies is in compliance with all license terms. Students must be informed that the materials are freely available on the OCW Web site and that their purchase of copied materials is optional.       
       
     Example: An institution in a remote area has limited Internet access and limited network infrastructure on campus, and a professor offers to create CDs of OCW materials relevant to her course. The professor may recover the costs of creating the CDs.
 
@@ -105,9 +105,9 @@ If you have questions about acceptable use of OCW materials, please contact us.
 
 OCW, prior to making any OCW Materials publicly available, has reviewed all material extensively to determine the correct ownership of the material and obtain the appropriate licenses to make the material available on OCW. OCW will promptly remove any material that is determined to be infringing on the rights of others. If you believe that a portion of OCW Material infringes another's copyright, [contact us via email](/contact) or write to us at:
 
-MIT OpenCourseWare      
-Attn: Copyright Infringement      
-600 Technology Square, #2000      
+MIT OpenCourseWare       
+Attn: Copyright Infringement       
+600 Technology Square, #2000       
 Cambridge, MA 02139
 
 If you do not include an electronic signature with your claim, you may be asked to send or fax a follow-up copy with a signature. To file the notification, you must be either the copyright owner of the work or an individual authorized to act on behalf of the copyright owner. Your notification must include:
