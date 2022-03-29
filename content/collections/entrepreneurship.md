@@ -16,9 +16,9 @@ description: "Massachusetts Institute of Technology has always been associated w
   \ making discoveries and inventions and then applying these discoveries and inventions\
   \ to solve real problems. In a very tangible way, MIT faculty and graduates invent\
   \ the future, and entrepreneurship\u2014the building of new businesses\u2014is often\
-  \ the road to that future.\n\n![Title screen from the video, 'The Ecosystem: Nurturing\
-  \ Entrepreneurship at MIT'.](https://ocw.mit.edu/courses/entrepreneurship/ecosystem_slate2.png)\_\
-  \  \n[Watch this video introduction](https://www.youtube.com/watch?v=WSkDqpBctfA)\
+  \ the road to that future.\_\n\n![Title screen from the video, 'The Ecosystem: Nurturing\
+  \ Entrepreneurship at MIT'.](https://ocw.mit.edu/courses/entrepreneurship/ecosystem_slate2.png)\
+  \ \_  \n[Watch this video introduction](https://www.youtube.com/watch?v=WSkDqpBctfA)\
   \ to entrepreneurship at MIT.\n\nThe report \u201C[Entrepreneurship and Innovation\
   \ at MIT](http://web.mit.edu/innovate/entrepreneurship2015.pdf)\u201D examines the\
   \ impact of MIT graduates who have founded and built for-profit companies. The report\
@@ -36,7 +36,7 @@ description: "Massachusetts Institute of Technology has always been associated w
   >     - Operations\n>     - Strategy\n\nThose interested in a general introduction\
   \ to entrepreneurship as taught at MIT should visit [*15.390 New Enterprises*](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013)\
   \ and [*15.S21 Nuts and Bolts of Business Plans*](https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014).\
-  \ Both courses have video resources.\_  \n[Watch this video introduction](https://www.youtube.com/watch?v=WSkDqpBctfA)\
+  \ Both courses have video resources.\_\_  \n[Watch this video introduction](https://www.youtube.com/watch?v=WSkDqpBctfA)\
   \ to entrepreneurship at MIT.\n\nThose interested in a general introduction to entrepreneurship\
   \ as taught at MIT should visit [*15.390 New Enterprises*](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013)\
   \ and [*15.S21 Nuts and Bolts of Business Plans*](https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014).\
