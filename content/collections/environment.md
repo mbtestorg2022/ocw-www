@@ -29,7 +29,9 @@ description: "Like so many of the big challenges taken on at MIT, environmental 
   \ devised by MIT\u2019s Environmental Solutions Initiative (ESI); the OCW course\
   \ list employs the undergraduate minor\u2019s four topic pillars. Many of the graduate-level\
   \ courses are part of the\_[MIT Sloan School of Management Sustainability Certificate](http://mitsloan.mit.edu/sustainability/sustainability-certificate)\
-  \ curriculum."
+  \ curriculum.\n\nBeyond OCW, the [MIT Climate Portal](https://climate.mit.edu) has\
+  \ many other open educational resources on climate change, including brief Explainer\
+  \ articles on key topics."
 featured-courses:
   content: f92bf6bd-def5-407d-822c-8f22480c44a6
   website: ocw-www
