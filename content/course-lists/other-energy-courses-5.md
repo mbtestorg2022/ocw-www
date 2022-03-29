@@ -25,6 +25,6 @@ courses:
 description: "These energy courses\_on OCW are not officially part of the Energy Minor\
   \ program, but may be of interest."
 draft: false
-title: Other Energy Courses (5)
+title: Other Energy Courses
 uid: 92f5bbf4-8a2a-4df6-898a-9eabb4755905
 ---
