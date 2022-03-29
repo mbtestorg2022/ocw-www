@@ -21,13 +21,13 @@ description: "\_\n\nPhoto by Flickr user [Changhua Coast Conservation Action](ht
   \ and environmental consequences of these decisions might be. \_\n\nIn fact, the\
   \ study of energy is so important and so pervasive at MIT, the [MIT Energy Initiative](http://energy.mit.edu/)\
   \ has devised an undergraduate\_[Energy Studies Minor](https://energy.mit.edu/education/undergraduate/minor/)\_\
-  which\_develops the expertise needed to reshape how the world uses energy. The heart\
-  \ of the Energy Studies Minor is a\_core\_of foundational subjects in\_energy science,\
-  \ economics, social science, and technology/engineering; complemented by a program\
-  \ of\_electives\_which allow students to tailor their Energy Minor to\_their particular\
-  \ interests.\n\nMany of the Energy Minor subjects are represented on OCW, and listed\
-  \ below. In addition to its core and elective courses, some\_other energy courses\_\
-  which are not officially part of the Energy Minor program are also listed."
+  which\_develops the expertise needed to reshape how the world uses energy. The Energy\
+  \ Studies Minor consists of a\_core\_of foundational subjects, complemented by a\
+  \ choice of\_electives\_which allow students to tailor their Energy Minor to\_their\
+  \ particular interests.\n\nMany of the Energy Minor subjects are represented on\
+  \ OCW, and listed below. In addition to its core and elective courses, some\_other\
+  \ energy courses\_which are not officially part of the Energy Minor program are\
+  \ also listed."
 featured-courses:
   content: b4b1b880-6f94-4a24-b638-1854abbd8744
   website: ocw-www
