@@ -5,6 +5,8 @@ courses:
   title: The Physics of Energy
 - id: 14-01-principles-of-microeconomics-fall-2018
   title: Principles of Microeconomics
+- id: 15-010-economic-analysis-for-business-decisions-fall-2004
+  title: Economic Analysis for Business Decisions
 - id: 14-44-energy-economics-spring-2007
   title: Energy Economics
 - id: 2-60j-fundamentals-of-advanced-energy-conversion-spring-2020
