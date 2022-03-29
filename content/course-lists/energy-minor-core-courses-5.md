@@ -11,6 +11,8 @@ courses:
   title: Energy Economics
 - id: 2-60j-fundamentals-of-advanced-energy-conversion-spring-2020
   title: Fundamentals of Advanced Energy Conversion
+- id: 11-165-infrastructure-and-energy-technology-challenges-fall-2011
+  title: Infrastructure and Energy Technology Challenges
 - id: 22-081j-introduction-to-sustainable-energy-fall-2010
   title: Introduction to Sustainable Energy
 - id: ec-711-d-lab-energy-spring-2011
