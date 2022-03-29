@@ -1,6 +1,6 @@
 ---
 content_type: testimonials
-draft: false
+draft: true
 image:
   content: ''
   website: ocw-www
