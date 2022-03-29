@@ -23,8 +23,8 @@ description: "\_\n\nPhoto by Flickr user [Changhua Coast Conservation Action](ht
   \ has devised an undergraduate\_[Energy Studies Minor](http://energy.mit.edu/minor/)\_\
   which\_develops the expertise needed to reshape how the world uses energy. The heart\
   \ of the Energy Students Minor is a\_[core](https://ocw.mit.edu/courses/energy-courses/#EnergyMinorCoreCourses)\_\
-  of foundational subjects in\_energy science, technology, and social science, complemented\
-  \ by a program of\_[electives](https://ocw.mit.edu/courses/energy-courses/#EnergyMinorElectiveCourses)\_\
+  of foundational subjects in\_energy science, economics, social science, and technology/engineering;\
+  \ complemented by a program of\_[electives](https://ocw.mit.edu/courses/energy-courses/#EnergyMinorElectiveCourses)\_\
   which allow students to tailor their Energy Minor to\_their particular interests.\n\
   \nMany of the Energy Minor subjects are represented on OCW, and listed below. In\
   \ addition to the core and elective courses, some\_[other energy courses](https://ocw.mit.edu/courses/energy-courses/#OtherEnergyCourses)\_\
