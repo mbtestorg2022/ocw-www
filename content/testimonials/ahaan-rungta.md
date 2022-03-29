@@ -2,7 +2,7 @@
 content_type: testimonials
 draft: true
 image:
-  content: 76be83d2-8cbb-49f9-b107-84381e58cadb
+  content: b294b0e1-b6d3-44ee-bf62-d8039e4dbded
   website: ocw-www
 leadquote: MIT has been my middle school, my high school, my entire education.
 location: United States
