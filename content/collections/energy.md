@@ -18,7 +18,7 @@ description: "\_\n\nPhoto by Flickr user [Changhua Coast Conservation Action](ht
   \ at all scales, from nanostructures and photovoltaic cells to large power plants\
   \ and smart electrical grids. They analyze how people make decisions about energy,\
   \ whether as individual consumers or whole nations, and they forecast what the social\
-  \ and environmental consequences of these decisions might be.\_\n\nIn fact, the\
+  \ and environmental consequences of these decisions might be. \_\n\nIn fact, the\
   \ study of energy is so important and so pervasive at MIT, the [MIT Energy Initiative](http://energy.mit.edu/)\
   \ has devised an undergraduate\_[Energy Studies Minor](http://energy.mit.edu/minor/)\_\
   which\_develops the expertise needed to reshape how the world uses energy. The heart\
