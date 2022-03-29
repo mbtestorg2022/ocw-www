@@ -33,6 +33,6 @@ description: "Like so many of the big challenges taken on at MIT, environmental 
 featured-courses:
   content: f92bf6bd-def5-407d-822c-8f22480c44a6
   website: ocw-www
-title: Environment and Sustainability
+title: Environment & Sustainability
 uid: 677e4855-ca00-42a4-9db8-7df1c6333dcc
 ---
