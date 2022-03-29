@@ -54,6 +54,6 @@ courses:
   title: Literature and Ethical Values
 description: TBW.
 draft: false
-title: 'Transportation: Behavior and Economics (5)'
+title: 'Transportation: Behavior and Economics'
 uid: 43ed57a9-470f-47ad-9f66-f16cc36aa70c
 ---
