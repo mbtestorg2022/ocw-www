@@ -31,14 +31,8 @@ description: "Like so many of the big challenges taken on at MIT, environmental 
   \ courses are part of the\_[MIT Sloan School of Management Sustainability Certificate](http://mitsloan.mit.edu/sustainability/sustainability-certificate)\
   \ curriculum."
 featured-courses:
-- id: ec-719-d-lab-water-climate-change-and-health-spring-2019
-  title: 'D-Lab: Water, Climate Change, and Health'
-- id: 11-384-malaysia-sustainable-cities-practicum-spring-2018
-  title: Malaysia Sustainable Cities Practicum
-- id: res-env-003-earthdnas-climate-101-fall-2019
-  title: EarthDNA's Climate 101
-- id: 11-382-water-diplomacy-spring-2021
-  title: Water Diplomacy
-title: Environment
+  content: f92bf6bd-def5-407d-822c-8f22480c44a6
+  website: ocw-www
+title: Environment and Sustainability
 uid: 677e4855-ca00-42a4-9db8-7df1c6333dcc
 ---
