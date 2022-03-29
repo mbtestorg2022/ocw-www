@@ -13,13 +13,8 @@ courses:
   title: Introduction to Sustainable Energy
 - id: ec-711-d-lab-energy-spring-2011
   title: 'D-Lab: Energy'
-description: "The [MIT Energy Initiative](http://energy.mit.edu/) has devised an undergraduate\_\
-  [Energy Studies Minor](http://energy.mit.edu/minor/)\_which\_develops the expertise\
-  \ needed to reshape how the world uses energy. The heart of the Energy Students\
-  \ Minor is a\_[core](https://ocw.mit.edu/courses/energy-courses/#EnergyMinorCoreCourses)\_\
-  of foundational subjects in\_energy science, technology, and social science, complemented\
-  \ by a program of\_[electives](https://ocw.mit.edu/courses/energy-courses/#EnergyMinorElectiveCourses)\_\
-  which allow students to tailor their Energy Minor to\_their particular interests."
+description: "The heart of the Energy Students Minor is a\_core\_of foundational subjects\
+  \ in\_energy science, economics, social science, and technology/engineering."
 draft: false
 title: Energy Minor Core Courses
 uid: 6d1bd1a8-7f02-455d-ba52-da7fa99981de
