@@ -23,14 +23,24 @@ courses:
   title: Micro/Nano Processing Technology
 - id: 6-701-introduction-to-nanoelectronics-spring-2010
   title: Introduction to Nanoelectronics
-description: "The [MIT Energy Initiative](http://energy.mit.edu/) has devised an undergraduate\_\
-  [Energy Studies Minor](http://energy.mit.edu/minor/)\_which\_develops the expertise\
-  \ needed to reshape how the world uses energy. The heart of the Energy Students\
-  \ Minor is a\_[core](https://ocw.mit.edu/courses/energy-courses/#EnergyMinorCoreCourses)\_\
-  of foundational subjects in\_energy science, technology, and social science, complemented\
-  \ by a program of\_[electives](https://ocw.mit.edu/courses/energy-courses/#EnergyMinorElectiveCourses)\_\
-  which allow students to tailor their Energy Minor to\_their particular interests."
+- id: 10-302-transport-processes-fall-2004
+  title: Transport Processes
+- id: 10-626-electrochemical-energy-systems-spring-2014
+  title: Electrochemical Energy Systems
+- id: 14-42-environmental-policy-and-economics-spring-2011
+  title: Environmental Policy and Economics
+- id: 15-023j-global-climate-change-economics-science-and-policy-spring-2008
+  title: 'Global Climate Change: Economics, Science, and Policy'
+- id: 22-033-nuclear-systems-design-project-fall-2011
+  title: Nuclear Systems Design Project
+- id: 22-06-engineering-of-nuclear-systems-fall-2010
+  title: Engineering of Nuclear Systems
+- id: sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018
+  title: 'Energy, Environment, and Society: Global Politics, Technologies, and Ecologies
+    of the Water-Energy-Food Crises'
+description: "Energy Minor elective courses allow students to tailor their program\
+  \ to\_their particular interests."
 draft: false
-title: Energy Minor Elective Courses (5)
+title: Energy Minor Elective Courses
 uid: 51bbeec7-d736-4756-a246-664f03b45d83
 ---
