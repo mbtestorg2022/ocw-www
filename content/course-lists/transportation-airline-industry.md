@@ -15,7 +15,8 @@ courses:
   title: Aircraft Systems Engineering
 - id: 16-886-air-transportation-systems-architecting-spring-2004
   title: Air Transportation Systems Architecting
-description: TBW.
+description: ''
+draft: false
 title: 'Transportation: Airline Industry'
 uid: 7d77e777-e078-4a3a-b417-0db31dda045a
 ---
