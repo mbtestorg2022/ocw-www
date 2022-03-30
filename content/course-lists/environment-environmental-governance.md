@@ -67,6 +67,6 @@ courses:
   title: EarthDNA's Climate 101
 description: TBW.
 draft: false
-title: 'Environment: Environmental Governance (5)'
+title: 'Environment & Sustainability: Governance'
 uid: 2b1bacf3-566f-43b5-bb90-5d099535fa62
 ---
