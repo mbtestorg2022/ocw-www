@@ -19,7 +19,8 @@ courses:
   title: Special Topics in Supply Chain Management
 - id: esd-s43-green-supply-chain-management-spring-2014
   title: Green Supply Chain Management
-description: TBW.
+description: ''
+draft: false
 title: 'Transportation: Logistics and Supply Chains'
 uid: f9ce44ae-ccd5-4b04-911e-2f94b19bc3ce
 ---
