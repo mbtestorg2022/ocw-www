@@ -17,7 +17,8 @@ courses:
   title: Frameworks and Models in Engineering Systems / Engineering System Design
 - id: res-11-550-leveraging-urban-mobility-disruptions-to-create-better-cities-spring-2021
   title: Leveraging Urban Mobility Disruptions to Create Better Cities
-description: TBW.
+description: ''
+draft: false
 title: 'Transportation: Urban Challenges'
 uid: 37b09d4b-b144-4faa-bd9c-ad5efd81cffd
 ---
