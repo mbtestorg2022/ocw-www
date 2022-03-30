@@ -14,7 +14,7 @@ courselists:
   - 34da5d78-1dbf-410e-b57d-c84015e411c5
   website: ocw-www
 cover-image:
-  content: 10f60e66-7b36-45db-bc6e-785e97a53a56
+  content: 46f5179a-ed60-48bb-8b32-2540407ef8bd
   website: ocw-www
 description: '[Transportation@MIT](http://transportation.mit.edu/) is a coordinated
   effort to address one of civilization''s most pressing challenges: the environmental
@@ -30,14 +30,8 @@ description: '[Transportation@MIT](http://transportation.mit.edu/) is a coordina
   already under way at the Institute and creates new opportunities for education and
   innovation.'
 featured-courses:
-- id: 16-687-private-pilot-ground-school-january-iap-2019
-  title: Private Pilot Ground School
-- id: 1-252j-urban-transportation-planning-fall-2016
-  title: Urban Transportation Planning
-- id: 1-258j-public-transportation-systems-spring-2017
-  title: Public Transportation Systems
-- id: 16-885j-aircraft-systems-engineering-fall-2005
-  title: Aircraft Systems Engineering
+  content: 36c4e2a0-b0ea-4f3b-9f44-63a937813625
+  website: ocw-www
 title: Transportation
 uid: 3643157c-cd03-4896-afb1-0d353b36ee4a
 ---
