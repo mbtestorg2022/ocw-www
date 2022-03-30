@@ -17,7 +17,7 @@ courses:
   title: Introduction to Sustainable Energy
 - id: ec-711-d-lab-energy-spring-2011
   title: 'D-Lab: Energy'
-description: "The heart of the Energy Students Minor is a\_core\_of foundational subjects\
+description: "The Energy Studies Minor is built\_on a core\_of foundational subjects\
   \ in\_energy science, economics, social science, and technology/engineering."
 draft: false
 title: Energy Minor Core Courses
