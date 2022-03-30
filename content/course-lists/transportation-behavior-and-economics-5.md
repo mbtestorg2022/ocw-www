@@ -29,8 +29,6 @@ courses:
   title: Economic Analysis for Business Decisions
 - id: 15-025-game-theory-for-strategic-advantage-spring-2015
   title: Game Theory for Strategic Advantage
-- id: 15-071-the-analytics-edge-spring-2017
-  title: The Analytics Edge
 - id: 15-270-ethical-practice-leading-through-professionalism-social-responsibility-and-system-design-spring-2016
   title: 'Ethical Practice: Leading Through Professionalism, Social Responsibility,
     and System Design'
