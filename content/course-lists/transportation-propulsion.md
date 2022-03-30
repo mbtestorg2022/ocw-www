@@ -15,7 +15,8 @@ courses:
   title: Space Propulsion
 - id: 16-540-internal-flows-in-turbomachines-spring-2006
   title: Internal Flows in Turbomachines
-description: TBW.
+description: ''
+draft: false
 title: 'Transportation: Propulsion'
 uid: 0e05537c-b508-40a4-bff7-d2c7d1334072
 ---
