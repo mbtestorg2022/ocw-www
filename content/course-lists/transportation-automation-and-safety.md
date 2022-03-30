@@ -13,7 +13,8 @@ courses:
   title: System Safety
 - id: 16-891j-space-policy-seminar-spring-2003
   title: Space Policy Seminar
-description: TBW.
+description: ''
+draft: false
 title: 'Transportation: Automation and Safety'
 uid: 34da5d78-1dbf-410e-b57d-c84015e411c5
 ---
