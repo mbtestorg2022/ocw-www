@@ -54,6 +54,6 @@ courses:
 description: The following courses represent a selection of "core" entrepreneurship-related
   courses offered at MIT.
 draft: false
-title: Entrepreneurship Core Courses (5)
+title: Entrepreneurship Core Courses
 uid: b4b1b880-6f94-4a24-b638-1854abbd8744
 ---
