@@ -44,6 +44,10 @@ courses:
   title: 'D-Lab: Supply Chains'
 - id: 15-972-professional-seminar-in-sustainability-spring-2010
   title: Professional Seminar in Sustainability
+- id: res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020
+  title: 'System Dynamics: Systems Thinking and Modeling for a Complex World'
+- id: 15-871-introduction-to-system-dynamics-fall-2013
+  title: Introduction to System Dynamics
 - id: 15-975-u-lab-leading-profound-innovation-for-a-more-sustainable-world-fall-2010
   title: 'U-Lab: Leading Profound Innovation for a More Sustainable World'
 - id: 15-992-s-lab-laboratory-for-sustainable-business-spring-2008
