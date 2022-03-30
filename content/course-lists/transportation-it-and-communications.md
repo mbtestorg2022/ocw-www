@@ -19,7 +19,8 @@ courses:
   title: 'The Economics of Information: Strategy, Structure and Pricing'
 - id: 15-818-pricing-spring-2010
   title: Pricing
-description: TBW.
+description: ''
+draft: false
 title: 'Transportation: IT and Communications'
 uid: 8aa35d80-b6d1-49cd-bc90-9025b3306d02
 ---
