@@ -20,7 +20,8 @@ courses:
   title: 'Global Climate Change: Economics, Science, and Policy'
 - id: esd-123j-systems-perspectives-on-industrial-ecology-spring-2006
   title: Systems Perspectives on Industrial Ecology
-description: TBW.
+description: ''
+draft: false
 title: 'Transportation: Environmental Impacts'
 uid: cce56d3d-6485-4383-a7c2-eb9bdacf16b3
 ---
