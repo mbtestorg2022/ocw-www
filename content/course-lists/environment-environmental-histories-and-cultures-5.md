@@ -53,7 +53,7 @@ courses:
   title: 'Energy and Environment in American History: 1705-2005'
 - id: wgs-160j-science-activism-gender-race-and-power-fall-2019
   title: 'Science Activism: Gender, Race, and Power'
-description: TBW.
+description: ''
 draft: false
 title: 'Environment & Sustainability: Histories and Cultures'
 uid: 32f9031f-21eb-4887-a89e-95de23d8eb16
