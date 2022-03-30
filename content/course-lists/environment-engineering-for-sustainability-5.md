@@ -53,7 +53,7 @@ courses:
   title: 'D-Lab: Water, Sanitation, and Hygiene'
 - id: res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017
   title: 'Climate Action Hands-On: Harnessing Science with Communities to Cut Carbon'
-description: TBW.
+description: ''
 draft: false
 title: 'Environment & Sustainability: Engineering'
 uid: 13c50662-0a7f-426a-a618-d80eda3ac6bf
