@@ -69,7 +69,7 @@ courses:
   title: 'Climate Action Hands-On: Harnessing Science with Communities to Cut Carbon'
 - id: res-env-003-earthdnas-climate-101-fall-2019
   title: EarthDNA's Climate 101
-description: TBW.
+description: ''
 draft: false
 title: 'Environment & Sustainability: Governance'
 uid: 2b1bacf3-566f-43b5-bb90-5d099535fa62
