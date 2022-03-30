@@ -17,7 +17,8 @@ courses:
   title: 'D-Lab II: Design'
 - id: sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007
   title: 'Engineering Apollo: The Moon Project as a Complex System'
-description: TBW.
+description: ''
+draft: false
 title: 'Transportation: Vehicles'
 uid: 3b822f2a-0c21-4207-8e55-dbcfcea7f2f6
 ---
