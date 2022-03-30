@@ -64,6 +64,36 @@ courses:
   title: Advanced Strategy
 - id: 15-963-management-accounting-and-control-spring-2007
   title: Management Accounting and Control
+- id: 15-969-dynamic-leadership-using-improvisation-in-business-fall-2004
+  title: 'Dynamic Leadership: Using Improvisation in Business'
+- id: 15-974-practical-leadership-fall-2004
+  title: Practical Leadership
+- id: 15-974-leadership-lab-spring-2003
+  title: Leadership Lab
+- id: 15-975-u-lab-leading-profound-innovation-for-a-more-sustainable-world-fall-2010
+  title: 'U-Lab: Leading Profound Innovation for a More Sustainable World'
+- id: 15-978-leadership-tools-and-teams-a-product-development-lab-spring-2007
+  title: 'Leadership Tools and Teams: A Product Development Lab'
+- id: 15-980j-organizing-for-innovative-product-development-spring-2007
+  title: Organizing for Innovative Product Development
+- id: 15-992-s-lab-laboratory-for-sustainable-business-spring-2008
+  title: 'S-Lab: Laboratory for Sustainable Business'
+- id: 15-996-cross-cultural-leadership-fall-2004
+  title: Cross-Cultural Leadership
+- id: 15-s07-globalhealth-lab-spring-2013
+  title: GlobalHealth Lab
+- id: 17-462-innovation-in-military-organizations-fall-2005
+  title: Innovation in Military Organizations
+- id: ec-701j-d-lab-i-development-fall-2009
+  title: 'D-Lab I: Development'
+- id: ec-720j-d-lab-ii-design-spring-2010
+  title: 'D-Lab II: Design'
+- id: esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009
+  title: 'X PRIZE Workshop: Grand Challenges in Energy'
+- id: ids-910-leadership-development-fall-2014
+  title: Leadership Development
+- id: res-solvex-business-and-impact-planning-for-social-enterprises-0-solvex-summer-2021
+  title: Business and Impact Planning for Social Enterprises (0.SolveX)
 description: The following courses represent a selection of the "supplementary" entrepreneurship
   courses offered at MIT.
 draft: false
