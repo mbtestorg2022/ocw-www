@@ -55,6 +55,6 @@ courses:
   title: 'Climate Action Hands-On: Harnessing Science with Communities to Cut Carbon'
 description: TBW.
 draft: false
-title: 'Environment & Sustainability: Engineering for Sustainability (5)'
+title: 'Environment & Sustainability: Engineering'
 uid: 13c50662-0a7f-426a-a618-d80eda3ac6bf
 ---
