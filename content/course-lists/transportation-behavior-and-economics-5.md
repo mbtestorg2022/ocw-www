@@ -50,7 +50,7 @@ courses:
   title: Ethics
 - id: 21l-450-literature-and-ethical-values-fall-2002
   title: Literature and Ethical Values
-description: TBW.
+description: ''
 draft: false
 title: 'Transportation: Behavior and Economics'
 uid: 43ed57a9-470f-47ad-9f66-f16cc36aa70c
