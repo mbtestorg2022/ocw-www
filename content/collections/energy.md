@@ -29,7 +29,7 @@ description: "\_\n\nPhoto by Flickr user [Changhua Coast Conservation Action](ht
   \ energy courses\_which are not officially part of the Energy Minor program are\
   \ also listed."
 featured-courses:
-  content: 6d1bd1a8-7f02-455d-ba52-da7fa99981de
+  content: 817983ee-5846-4125-9a45-24b06cc8c88f
   website: ocw-www
 title: Energy
 uid: 40cc9421-04bb-4120-b980-41534c0b3f8f
