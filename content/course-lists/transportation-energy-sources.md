@@ -18,7 +18,8 @@ courses:
 - id: sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018
   title: 'Energy, Environment, and Society: Global Politics, Technologies, and Ecologies
     of the Water-Energy-Food Crises'
-description: TBW.
+description: ''
+draft: false
 title: 'Transportation: Energy Sources'
 uid: ec3ccb70-8f6b-422f-a25e-02274ab02b81
 ---
