@@ -17,7 +17,8 @@ courses:
   title: System Optimization and Analysis for Manufacturing
 - id: 15-082j-network-optimization-fall-2010
   title: Network Optimization
-description: TBW.
+description: ''
+draft: false
 title: 'Transportation: Optimization and Control'
 uid: 9437a5a2-0114-4325-b913-38c9bbfe8647
 ---
