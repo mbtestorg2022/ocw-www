@@ -37,7 +37,7 @@ description: "### **The MIT Open Learning Library is home to selected educationa
   \ as you work your way through the subject matter. Like OCW, this content is always\
   \ open and self-guided and includes no live support, discussion forum, or certificates."
 featured-courses:
-  content: ''
+  content: 770173e6-4007-47a5-886e-699ae38083e1
   website: ocw-www
 title: MIT Open Learning Library
 uid: 9efebf57-3b2b-46dc-a903-f45924c1c721
