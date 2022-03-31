@@ -2,9 +2,6 @@
 content_type: course-collection
 courselists:
   content:
-  - 7fbf1e18-1f33-45af-98e2-01fa698ef41e
-  - 29f07bcd-4f4b-446e-aa2a-89691f9f5fc9
-  - 8b182df2-d2f7-4ce4-8f61-5f85269631ad
   - 44c3f9fd-6d57-4e31-8b94-c9160b3186e4
   website: ocw-www
 cover-image:
