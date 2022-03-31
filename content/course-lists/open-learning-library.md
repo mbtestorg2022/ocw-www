@@ -3,6 +3,8 @@ content_type: course-lists
 courses:
 - id: 3-012sx-structure-of-materials-spring-2019
   title: Structure of Materials
+- id: 6-036-introduction-to-machine-learning-fall-2020
+  title: Introduction to Machine Learning
 - id: res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019
   title: 'Pre-7.01: Getting up to Speed in Biology'
 - id: 8-02-physics-ii-electricity-and-magnetism-spring-2019
@@ -21,6 +23,8 @@ courses:
   title: The Science and Business of Biotechnology
 - id: res-15-005-healthcare-finance-15-482x-spring-2019
   title: Healthcare Finance (15.482x)
+- id: 18-031-system-functions-and-the-laplace-transform-spring-2019
+  title: System Functions and the Laplace Transform
 - id: res-21h-001-visualizing-the-birth-of-modern-tokyo-spring-2021
   title: Visualizing the Birth of Modern Tokyo
 - id: res-cms-154-launching-innovation-in-schools-spring-2019
