@@ -41,14 +41,7 @@ courses:
   title: Lean Research Skills for Conducting Interviews
 - id: hst-953-collaborative-data-science-for-healthcare-fall-2020
   title: Collaborative Data Science for Healthcare
-description: "Open Learning Library is a collection of free online MIT courses that\
-  \ complement the materials found on OCW.\_\n\nOpen Learning Library courses feature\
-  \ sequences of short videos with auto-graded assessments for instant feedback. Like\
-  \ OCW, the Open Learning Library is always open for self-guided learning, and does\
-  \ not include live support, discussion forums, or certificates of completion.\_\n\
-  \nYou have the option to sign up and enroll in each Open Learning Library course\
-  \ if you want to track your progress, or you can view and use all the materials\
-  \ without enrolling."
+description: ''
 draft: false
 title: Open Learning Library
 uid: 44c3f9fd-6d57-4e31-8b94-c9160b3186e4
