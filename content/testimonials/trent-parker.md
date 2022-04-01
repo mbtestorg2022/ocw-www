@@ -23,11 +23,11 @@ As TMP Chem gained followers, Parker also gained more private tutoring clients. 
 
 Yet Parker was hungry to make a bigger impact on the world, and find a more stable career. Software engineering seemed to fit the bill, and what better place than MIT to learn that subject?
 
-Fortunately, OpenCourseWare has extensive course materials on [computer science](https://ocwnext.odl.mit.edu/search/?t=Computer%20Science), including a curated list of [introductory programming](https://ocwnext.odl.mit.edu/pages/introductory-programming/) starting points.
+Fortunately, OpenCourseWare has extensive course materials on [computer science](/search/?t=Computer%20Science), including a curated list of [introductory programming](/pages/introductory-programming/) starting points.
 
 “Thanks to the vast trove of content available on the \[OCW\] site, I was able to view videos, work through homework assignments, read the right books, and build a self-study computer science curriculum for myself,” Parker says.
 
-Choosing courses from OCW’s collection, Parker dove into courses such as [*6.042J/18.062J Mathematics for Computer Science*](https://ocwnext.odl.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/) and soon became a skilled systematic problem solver. As he learned more with OCW, Parker took part in online coding competitions. After succeeding with a particularly hard eight-hour challenge, he was approached by a scout for Google and offered a job interview.
+Choosing courses from OCW’s collection, Parker dove into courses such as [*6.042J/18.062J Mathematics for Computer Science*](/courses/6-042j-mathematics-for-computer-science-spring-2015/) and soon became a skilled systematic problem solver. As he learned more with OCW, Parker took part in online coding competitions. After succeeding with a particularly hard eight-hour challenge, he was approached by a scout for Google and offered a job interview.
 
 Google’s offer rate from first interviews is less than 1 percent, so Parker was cautiously excited about the interview, but didn’t expect to be offered the first job for which he interviewed. Yet through round after round of technical interviews, the recruiters were impressed that someone with virtually no formal background in computer science was doing so well. Fortunately, Parker was well-prepared for their interview questions, having thoroughly internalized the OCW course materials, put in plenty of dedicated practice, and worked up to progressively more challenging problems.
 

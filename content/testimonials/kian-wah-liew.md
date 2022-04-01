@@ -22,7 +22,7 @@ A secondary school mathematics teacher in Kuala Lumpur, Malaysia, Kian Wah Liew 
 
 Liew, who discovered MIT OpenCourseWare several years ago while searching the Internet for self-study resources in math and physics, sometimes uses OCW video lectures to supplement his teaching. Because the topics are difficult, and the students' grasp of spoken English imperfect, Liew finds that he often has to narrate the videos as they play.
 
-"Since a few lectures in the introductory level courses on OCW are similar to our syllabi, and because I like the way the lecturers conduct their lessons," Liew says, "I sometimes use the lectures in the classroom. I let the students watch a lecture – for example, an [*18.03 Differential Equations*](https://ocwnext.odl.mit.edu/courses/18-03sc-differential-equations-fall-2011/) video – accompanied by my own explanations.”
+"Since a few lectures in the introductory level courses on OCW are similar to our syllabi, and because I like the way the lecturers conduct their lessons," Liew says, "I sometimes use the lectures in the classroom. I let the students watch a lecture – for example, an [*18.03 Differential Equations*](/courses/18-03sc-differential-equations-fall-2011/) video – accompanied by my own explanations.”
 
 ## Studying abroad without leaving the classroom
 

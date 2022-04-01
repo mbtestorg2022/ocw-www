@@ -14,7 +14,7 @@ uid: 9bfc959f-0ba9-43ce-b025-c4ecc6eaf444
 ---
 Stephen Carson | MIT OpenCourseWare
 
-When Robert Talbert, associate professor of mathematics and computing science at Franklin College, was looking for inspiration and resources for his CMP 150 Computer Tools for Problem Solving course, he turned to MIT OpenCourseWare's [*6.00 Introduction to Computer Science and Programming*](https://ocwnext.odl.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/) course, taught by Professors Eric Grimson and John Guttag.
+When Robert Talbert, associate professor of mathematics and computing science at Franklin College, was looking for inspiration and resources for his CMP 150 Computer Tools for Problem Solving course, he turned to MIT OpenCourseWare's [*6.00 Introduction to Computer Science and Programming*](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/) course, taught by Professors Eric Grimson and John Guttag.
 
 Initially, OCW was helpful to Talbert personally in updating his own programming skills. "I had actually not programmed in three to four years, and so my programming skills were rusty to say the least. The OCW course was actually my re-training course in programming in general, and then I adapted what I was learning generally about programming to the particulars of my course. I wish I had had a course like the OCW course when I was an undergrad!"
 

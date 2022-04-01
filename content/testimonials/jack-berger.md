@@ -14,7 +14,7 @@ uid: 459b58f8-e4a4-4297-bc27-33be435714d2
 ---
 Leda Zimmerman | MIT OpenCourseWare
 
-After 11 years with the Air Force and multiple tours of duty in the Middle East, John (Jack) Berger has begun pursuing his dream career – designing video games – with the help of the OpenCourseWare (OCW) class, [6.00SC Introduction to Computer Science and Programming](https://ocwnext.odl.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/).
+After 11 years with the Air Force and multiple tours of duty in the Middle East, John (Jack) Berger has begun pursuing his dream career – designing video games – with the help of the OpenCourseWare (OCW) class, [6.00SC Introduction to Computer Science and Programming](/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/).
 
 “This is what I need,” says Berger. “I know if I can put on a resume that I have computer programming experience, I can use this skill to better my own life.” The 34-year-old veteran hopes to build on this foundational MIT course, taught by Professor John Guttag, and then broaden his programming language expertise with additional OCW courses.
 

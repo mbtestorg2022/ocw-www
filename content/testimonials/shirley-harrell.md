@@ -21,7 +21,7 @@ This range requires a delicate balancing of student needs and academic standards
 
 So when Harrell first heard about MIT OpenCourseWare on a CNN feature in 2004, she was quick to visit the site. Almost immediately, OCW became a crucial reference tool for her, both for curriculum design and as a benchmark. Harrell describes OCW as a "gold standard" against which she can assess her course materials, and also track the success of her students. "I look at grading policies, reading lists, writing requirements, assignments, attendance policies, and assessment," she says. "For me, it's an important way to ensure the quality of my courses."
 
-OCW has been especially important in her assessment of individual students' contributions to team projects. "I ran into a real difficulty with teamwork," Harrell notes. "In MIT's [*Organizational Processes*](https://ocwnext.odl.mit.edu/courses/15-311-organizational-processes-fall-2003/) course, they've developed rubrics whereby team members can give feedback on other team members, and the instructors can then use that as a way to gauge grading for the course. These rubrics really changed how I thought about assessment."
+OCW has been especially important in her assessment of individual students' contributions to team projects. "I ran into a real difficulty with teamwork," Harrell notes. "In MIT's [*Organizational Processes*](/courses/15-311-organizational-processes-fall-2003/) course, they've developed rubrics whereby team members can give feedback on other team members, and the instructors can then use that as a way to gauge grading for the course. These rubrics really changed how I thought about assessment."
 
 ## Imposing high standards
 
