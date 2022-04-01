@@ -22,7 +22,7 @@ More details are in the Using OCW Materials FAQs.
 
 The free materials on OCW are used by educators around the world in teaching, adapted and integrated into curricula that inspires and empowers learners. And by sharing MIT faculty’s teaching approaches with the world, OCW is also a setting for reflective dialog about the craft of teaching and using Open Educational Resources (OER).
 
-We encourage you to start exploring OCW's [Educator Initiative page](https://ocwnext.odl.mit.edu/educator/?__hstc=215508872.8b0d6a564d954ec36735e5f3e5a4d717.1644420099739.1648738214719.1648749631544.13&__hssc=215508872.10.1648749631544&__hsfp=689994695) that includes content created and curated just for educators.
+We encourage you to start exploring OCW's [Educator Initiative page](/educator/?__hstc=215508872.8b0d6a564d954ec36735e5f3e5a4d717.1644420099739.1648738214719.1648749631544.13&__hssc=215508872.10.1648749631544&__hsfp=689994695) that includes content created and curated just for educators.
 
 ## For Learners
 
@@ -35,7 +35,7 @@ When you find a course of interest, begin by skimming the syllabus and calendar.
 
 It's up to you to decide what and how you'd like to learn. Study the materials in a course from beginning to end, or select individual concepts found in different courses. You can let your curiosity be your guide, or consult About the MIT Curriculum if you want to try following the course pathways used by MIT students.
 
-For more inspiration, read [OCW Stories](https://ocwnext.odl.mit.edu/testimonials/?__hstc=215508872.8b0d6a564d954ec36735e5f3e5a4d717.1644420099739.1648738214719.1648749631544.13&__hssc=215508872.12.1648749631544&__hsfp=689994695) from students and self-learners.
+For more inspiration, read [OCW Stories](/testimonials/?__hstc=215508872.8b0d6a564d954ec36735e5f3e5a4d717.1644420099739.1648738214719.1648749631544.13&__hssc=215508872.12.1648749631544&__hsfp=689994695) from students and self-learners.
 
 ## Top Frequently Asked Questions
 
