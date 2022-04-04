@@ -8,4 +8,4 @@ uid: 55e79dfc-c33a-4e33-902e-ecc1d102db01
 
  
 
-You might want to try [searching](/search/) for another page, or you can [contact us](https://ocwnext-rc.odl.mit.edu/contact/) and let us know.
+You might want to try [searching](/search/) for another page, or you can [contact us](/contact/) and let us know.
