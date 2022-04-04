@@ -1,10 +1,10 @@
 ---
 content_type: pages
 draft: false
-title: Welcome to NextGen OCW!
+title: Welcome to the new OCW!
 uid: 6d308f4c-fa8a-497e-b21b-989af4fbf7bb
 ---
-## Welcome to the new OCW website!
+## Welcome to the new OCW!
 
 It sets the stage for many years of evolution and growth in OCW’s programs. We’ll be making enhancements and adding new features in the months to come. Please help us improve the site by giving us feedback through this [user survey](https://mit.co1.qualtrics.com/jfe/form/SV_b2QdlmQmJ2KYCCW).
 
