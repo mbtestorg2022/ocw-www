@@ -10,11 +10,11 @@ Since our founding in 2001, MIT OpenCourseWare has been guided by a revolutionar
 
 OCW has inspired a worldwide movement that now includes hundreds of universities sharing materials from more than ten thousand courses and has touched the lives of millions. Just as OCW would not be possible without the generosity of the MIT faculty sharing their course materials and methods, OCW would not be possible without the support of thousands of individuals who donate each year. Your gift ensures we can keep OCW growing with new courses and more of the rich resources — from video to podcasts — that make a difference for so many worldwide. [Support OCW with a gift today.](https://giving.mit.edu/give/to/ocw/)
 
-#### [Other ways to contribute](https://ocw.mit.edu/pages/other-ways-to-contribute/)
+[Other ways to contribute](https://ocw.mit.edu/pages/other-ways-to-contribute/)
 
-#### [Become a corporate sponsor](https://ocw.mit.edu/pages/become-a-corporate-sponsor/)
+[Become a corporate sponsor](https://ocw.mit.edu/pages/become-a-corporate-sponsor/)
 
-#### [Our supporters](https://ocw.mit.edu/pages/our-supporters/)
+[Our supporters](https://ocw.mit.edu/pages/our-supporters/)
 
  
 
