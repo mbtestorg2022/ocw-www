@@ -16,11 +16,11 @@ OCW has inspired a worldwide movement that now includes hundreds of universities
 
  
 
-### [Become a Corporate Sponsor](https://ocw.mit.edu/pages/become-a-corporate-sponsor/)
+### [Our Supporters](https://ocw.mit.edu/pages/our-supporters/)
 
  
 
-### [Our Supporters](https://ocw.mit.edu/pages/our-supporters/)
+### [Become a Corporate Sponsor](https://ocw.mit.edu/pages/become-a-corporate-sponsor/)
 
  
 
