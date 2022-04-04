@@ -93,13 +93,13 @@ Yes, you can double your impact when your employer matches your gift to OCW. To 
 
 Like our learners, OCW’s supporters are a global community. During our 2020-2021 year, OCW was generously supported by more than 1,600 donors and [OCW sustainers, representing ](https://ocw.mit.edu/give/ocw-sustainer-program/?utm_source=ocw&utm_medium=&#%20%20%20%2010;%20%20%20%20whygivepage&utm_campaign=textlink) 80 countries and 6 continents. [Meet our supporters.](https://ocw.mit.edu/give/our-supporters/?utm_source=ocw&utm_medium=%20%20%20%20%20%20%20whygivepage&utm_campaign=textlink)
 
-## How can my foundation support OCW? 
+## **How can my foundation support OCW?** 
 
 We collaborate with dozens of foundations that share MIT's dedication to education and open educational resources. If you are affiliated with a foundation and want to learn more about OCW, please let us know. We are happy to arrange exploratory meetings for you with MIT faculty and staff.
 
 Contact [Peter Kaufman](mailto:pbkauf@mit.edu) to learn more. 
 
-## What is the impact of OCW on the world? 
+## **What is the impact of OCW on the world?** 
 
 No one better captures the impact OCW has on the world than the thousands of learners who use OCW each day, a vibrant community of university and high school students, educators, and independent and lifelong learners from all over the world. To hear their stories, we invite you to [read a compilation of some of the inspirational feedback](https://ocw.mit.edu/give/our-supporters/ocw-impact/?utm_source=ocw&utm_medium=whygivepage&utm_campaign=textlink) we've received over the years. We've created a 20th edition of the [OCW Book of Impact](https://ocw.mit.edu/give/our-supporters/ocw-impact/20th-anniversary/) that recognizes this milestone. 
 
