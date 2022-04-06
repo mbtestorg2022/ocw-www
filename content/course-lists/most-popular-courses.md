@@ -39,7 +39,7 @@ courses:
   title: Introduction to Computational Thinking and Data Science
 - id: 14-01-principles-of-microeconomics-fall-2018
   title: Principles of Microeconomics
-description: ''
+description: These are the 20 most visited courses on OCW over the past month.
 draft: false
 title: Most Popular Courses
 uid: dc4305e7-4273-4e3a-905d-f2f7ce04bb21
