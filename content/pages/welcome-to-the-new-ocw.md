@@ -20,4 +20,4 @@ We’ve brought forward the same MIT-created content that hundreds of millions o
 
 ## Thank you for interest, feedback, and support of OCW!
 
-Consider [donating to OpenCourseWare](https://giving.mit.edu/give/to/ocw/?utm_source=ocw&utm_medium=nextgen&utm_campaign=20th) to help further our efforts. If you haven’t already, [sign up for our newsletter](https://ocw.mit.edu/subscribe/index.htm?utm_source=nextgenocw).
+Consider [donating to OpenCourseWare](https://giving.mit.edu/give/to/ocw/?utm_source=ocw&utm_medium=nextgen&utm_campaign=20th) to help further our efforts. If you haven’t already, [sign up for our newsletter](https://ocw.mit.edu/newsletter/).
