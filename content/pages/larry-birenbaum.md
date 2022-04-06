@@ -5,8 +5,8 @@ title: Larry Birenbaum
 uid: 5cfcea55-d091-450b-9acd-8fbb00448fd4
 ---
 > *OpenCourseWare is exactly the kind of thing that universities should be doing.*
-
-*— Larry Birenbaum*
+> 
+> *— Larry Birenbaum*
 
 Larry Birenbaum, a 1969 MIT graduate in Electrical Engineering, has an impressive history of giving back to his alma mater. In the past, his gifts – like those of many donors to Institute – have supported departments that transformed his own MIT experience. 
 
