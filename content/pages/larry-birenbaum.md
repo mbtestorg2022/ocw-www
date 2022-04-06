@@ -4,7 +4,7 @@ draft: false
 title: Larry Birenbaum
 uid: 5cfcea55-d091-450b-9acd-8fbb00448fd4
 ---
-*OpenCourseWare is exactly the kind of thing that universities should be doing.*
+> *OpenCourseWare is exactly the kind of thing that universities should be doing.*
 
 *— Larry Birenbaum*
 
