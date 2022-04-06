@@ -4,7 +4,7 @@ draft: false
 title: Jon Gruber
 uid: 57db5d1e-862d-4e14-92fd-eac91e142cf1
 ---
-*MIT OpenCourseWare was a most distinct idea.*
+> *"MIT OpenCourseWare was a most distinct idea."*
 
 *– Jon Gruber*
 
