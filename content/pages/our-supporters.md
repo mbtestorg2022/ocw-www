@@ -58,13 +58,13 @@ The Frank N. Stanton Foundation
 
 ## **Supporter Profiles**
 
-[Larry Birenbaum](https://old.ocw.mit.edu/give/our-supporters/larry-birenbaum)   
-[The Class of 2009](https://old.ocw.mit.edu/give/our-supporters/the-class-of-2009)   
-[Jon Gruber](https://old.ocw.mit.edu/about/ocw-stories/jon-gruber)   
-[John Klug](https://old.ocw.mit.edu/give/our-supporters/john-klug)   
-[Abhay Parekh](https://old.ocw.mit.edu/give/our-supporters/abhay-parekh)   
-[Gene Sprouse](https://old.ocw.mit.edu/about/ocw-stories/gene-sprouse)   
-[Gene Stark](https://ocw.mit.edu/give/our-supporters/gene-stark/)
+[Larry Birenbaum](https://ocw.mit.edu/pages/larry-birenbaum/)    
+[The Class of 2009](https://ocw.mit.edu/pages/the-class-of-2009/)    
+[Jon Gruber](https://ocw.mit.edu/pages/jon-gruber/)    
+[John Klug](https://ocw.mit.edu/pages/john-klug/)    
+[Abhay Parekh](https://ocw.mit.edu/pages/abhay-parekh/)    
+[Gene Sprouse](https://ocw.mit.edu/pages/gene-sprouse/)    
+[Gene Stark](https://ocw.mit.edu/pages/gene-stark/)
 
 ## **Individual Supporters**
 
@@ -83,75 +83,75 @@ We also appreciate the learners who share with us the impact OCW has made in the
 We offer our [**OCW Sustainers**](https://old.ocw.mit.edu/give/ocw-sustainer-program) a special thank you for committing to OCW’s long-term sustainability by contributing to OCW on a monthly or annual basis.
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-Corey Abshire   
-Luke Amdor   
-Alexandra T. Ashpole   
-Philip Bakes   
-George Barrell   
-Stefan Behnke   
-Eduard Bitterli   
-Anna Bogdanova   
-Wolfgang Braun   
-Minh Bui   
-Justin Carrillo   
-John Cavanaugh   
-Xiaoyi Chen   
-Brian Chu   
-Sushil Da Silva   
-Jason Dubaniewicz   
-Aboo B S Fatally   
-Timothy Feeney   
-Jonathon Fidiam   
-Fergus Frew   
-Daniel Garcia   
-Darryl Geary   
-Ruben Gutierrez-Priego   
+Corey Abshire    
+Luke Amdor    
+Alexandra T. Ashpole    
+Philip Bakes    
+George Barrell    
+Stefan Behnke    
+Eduard Bitterli    
+Anna Bogdanova    
+Wolfgang Braun    
+Minh Bui    
+Justin Carrillo    
+John Cavanaugh    
+Xiaoyi Chen    
+Brian Chu    
+Sushil Da Silva    
+Jason Dubaniewicz    
+Aboo B S Fatally    
+Timothy Feeney    
+Jonathon Fidiam    
+Fergus Frew    
+Daniel Garcia    
+Darryl Geary    
+Ruben Gutierrez-Priego    
 Hayssam Hajar
 {{< tdclose >}}{{< tdopen >}}
-Andrea Harman   
-Andrea M. Henshall   
-Jim Hillhouse   
-Gregory Hoke   
-Robert Jeffers   
-Abhishek Kamodia   
-Gregory Kashkin   
-Ulrich Kausch   
-Holger Kienle   
-Hans-Juergen Kiesow   
-Wiktor Kondrusiewicz   
-Kevin Larsen   
-Y. Charlotte Lau   
-David Lin   
-Dale Logan   
-Keith R. Milkove   
-Lara B. and Scott B. Morrison   
-Seanan Murphy   
-Yasen Nikolov   
-Jonas Pettersson   
-Katarzyna Piotrowska   
-Pongnarit Plengsangsri   
-William N. Pohlmann   
-Jordan Rahaman   
+Andrea Harman    
+Andrea M. Henshall    
+Jim Hillhouse    
+Gregory Hoke    
+Robert Jeffers    
+Abhishek Kamodia    
+Gregory Kashkin    
+Ulrich Kausch    
+Holger Kienle    
+Hans-Juergen Kiesow    
+Wiktor Kondrusiewicz    
+Kevin Larsen    
+Y. Charlotte Lau    
+David Lin    
+Dale Logan    
+Keith R. Milkove    
+Lara B. and Scott B. Morrison    
+Seanan Murphy    
+Yasen Nikolov    
+Jonas Pettersson    
+Katarzyna Piotrowska    
+Pongnarit Plengsangsri    
+William N. Pohlmann    
+Jordan Rahaman    
 Qing Ran
 {{< tdclose >}}{{< tdopen >}}
-John Rizzo   
-Ralph D. Samuelson   
-Michael Sandstrom   
-Sanjaya K. Saxena   
-Sean Silva   
-Ashley Sjodin   
-Leijun Song   
-Mike Speciner   
-Sira Sriswasdi   
-Martijn Stegeman   
-Philip P. Sung   
-Sittampalam Thirugnanasampanthan   
-Matthew Thornton   
-Christine Tolle   
-Merijn Van De Water   
-Thomas B. Wilson   
-Daniel Yu   
-Alper Yuce   
+John Rizzo    
+Ralph D. Samuelson    
+Michael Sandstrom    
+Sanjaya K. Saxena    
+Sean Silva    
+Ashley Sjodin    
+Leijun Song    
+Mike Speciner    
+Sira Sriswasdi    
+Martijn Stegeman    
+Philip P. Sung    
+Sittampalam Thirugnanasampanthan    
+Matthew Thornton    
+Christine Tolle    
+Merijn Van De Water    
+Thomas B. Wilson    
+Daniel Yu    
+Alper Yuce    
 Shun Zhu
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
