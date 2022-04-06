@@ -5,8 +5,8 @@ title: Gene Sprouse
 uid: 04779b02-0f0c-45d7-806e-ac653fc4f63a
 ---
 > *"As an alumnus, I'm proud to support OCW's effort, and help it to flourish."*
-
-*— Gene Sprouse*
+> 
+> *— Gene Sprouse*
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 ![Gene Sprouse](https://old.ocw.mit.edu/about/ocw-stories/gene-sprouse/sprouse.jpg)
