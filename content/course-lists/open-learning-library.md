@@ -47,8 +47,9 @@ description: "The MIT Open Learning Library is home to selected educational cont
   \ materials with the world. The Open Learning Library provides additional opportunities\
   \ to learn from MIT at your own pace, engaging with interactive problems and receiving\
   \ instant feedback.\n\n#### **Interactive Assessments and Progress Tracking**\n\n\
-  You can view and use all Open Learning Library materials without enrolling.\_\n\n\
-  If you want to track your progress through a course, create a free Open Learning\
+  You can view and use all Open Learning Library materials without enrolling ([learn\
+  \ more here](https://openlearning.mit.edu/courses-programs/open-learning-library)).\_\
+  \n\nIf you want to track your progress through a course, create a free Open Learning\
   \ Library account, and then enroll in the course. The learning experience will be\
   \ similar to [MITx courses](https://openlearning.mit.edu/courses-programs/mitx-courses)\
   \ running on edX and MITx Online platforms. However,\_Open Learning Library does\
