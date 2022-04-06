@@ -8,11 +8,15 @@ MIT OpenCourseWare is grateful to the following organizations and individuals fo
 
 ## **Foundations**
 
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+
 [The William and Flora Hewlett Foundation](http://www.hewlett.org/?utm_source=our-supporters&utm_medium=hewlett&utm_campaign=text_hewlett)
 
 The Dirk and Charlene Kabcenell Foundation
 
 The Lord Foundation of Massachusetts
+
+{{< tdclose >}}{{< tdopen >}}
 
 [The Andrew W. Mellon Foundation](http://www.mellon.org/?utm_source=our-supporters&utm_medium=mellon&utm_campaign=text_mellon)
 
@@ -20,50 +24,24 @@ The Lord Foundation of Massachusetts
 
 The Frank N. Stanton Foundation
 
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+
 ## **Sponsors**
 
-### *Next Decade Alliance*
-
-[accenture](http://www.accenture.com/?utm_source=our-supporters&utm_medium=accenture&utm_campaign=text_accenture)
-
-[Dow](http://www.dow.com/?utm_source=our-supporters&utm_medium=dow&utm_campaign=text_dow)
-
-[Lockheed Martin](http://www.lockheedmartin.com/?utm_source=our-supporters&utm_medium=lockheed&utm_campaign=text_lockheed)
-
-[MathWorks](http://www.mathworks.com/?utm_source=our-supporters&utm_medium=mathworks&utm_campaign=text_mathworks)
-
-[Telmex](http://www.academica.mx/)
-
-### *Underwriters*
-
-[The Ab Initio Corporation](http://www.abinitio.com/?utm_source=our-supporters&utm_medium=ab_initio&utm_campaign=text_abinitio)
-
-[Lenovo](http://www.lenovo.com/?utm_source=our-supporters&utm_medium=lenovo&utm_campaign=text_lenovo)
-
-[MIT Professional Education](http://web.mit.edu/professional/?utm_source=our-supporters&utm_medium=pep&utm_campaign=text_pep)
-
-[MIT System Design and Management](http://sdm.mit.edu/?utm_source=our-supporters&utm_medium=sdm&utm_campaign=text_sdm)
+We appreciate the support of our previous Corporate Supporters and Underwriters who include: Accenture, Dow, Lockheed Martin, MathWorks, Telmex, The Ab Initio Corporation, Lenovo, MIT Professional Education, MIT System Design and Management.
 
 ## **In-kind Contributors**
 
-[Bain & Company](http://www.bain.com/?utm_source=our-supporters&utm_medium=bain&utm_campaign=text_bain)
-
-[Google Grants](http://www.google.com/grants/details.html)
-
-[Andreas Ramos](http://andreas.com/)
-
-[Seagate, Inc](http://www.seagate.com/www/en-us?utm_source=our-supporters&utm_medium=seagate&utm_campaign=text_seagate)
-
-[United Nations Development Programme](http://www.undp.org/)
+Our in-kind contributors have helped us with their expertise, advice, and network and include: Bain & Company, Google Grants, [Andreas Ramos](http://andreas.com/), Seagate, Inc, United Nations Development Programme.
 
 ## **Supporter Profiles**
 
-[Larry Birenbaum](https://ocw.mit.edu/pages/larry-birenbaum/)    
-[The Class of 2009](https://ocw.mit.edu/pages/the-class-of-2009/)    
-[Jon Gruber](https://ocw.mit.edu/pages/jon-gruber/)    
-[John Klug](https://ocw.mit.edu/pages/john-klug/)    
-[Abhay Parekh](https://ocw.mit.edu/pages/abhay-parekh/)    
-[Gene Sprouse](https://ocw.mit.edu/pages/gene-sprouse/)    
+[Larry Birenbaum](https://ocw.mit.edu/pages/larry-birenbaum/)     
+[The Class of 2009](https://ocw.mit.edu/pages/the-class-of-2009/)     
+[Jon Gruber](https://ocw.mit.edu/pages/jon-gruber/)     
+[John Klug](https://ocw.mit.edu/pages/john-klug/)     
+[Abhay Parekh](https://ocw.mit.edu/pages/abhay-parekh/)     
+[Gene Sprouse](https://ocw.mit.edu/pages/gene-sprouse/)     
 [Gene Stark](https://ocw.mit.edu/pages/gene-stark/)
 
 ## **Individual Supporters**
@@ -83,75 +61,75 @@ We also appreciate the learners who share with us the impact OCW has made in the
 We offer our [**OCW Sustainers**](https://old.ocw.mit.edu/give/ocw-sustainer-program) a special thank you for committing to OCW’s long-term sustainability by contributing to OCW on a monthly or annual basis.
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-Corey Abshire    
-Luke Amdor    
-Alexandra T. Ashpole    
-Philip Bakes    
-George Barrell    
-Stefan Behnke    
-Eduard Bitterli    
-Anna Bogdanova    
-Wolfgang Braun    
-Minh Bui    
-Justin Carrillo    
-John Cavanaugh    
-Xiaoyi Chen    
-Brian Chu    
-Sushil Da Silva    
-Jason Dubaniewicz    
-Aboo B S Fatally    
-Timothy Feeney    
-Jonathon Fidiam    
-Fergus Frew    
-Daniel Garcia    
-Darryl Geary    
-Ruben Gutierrez-Priego    
+Corey Abshire     
+Luke Amdor     
+Alexandra T. Ashpole     
+Philip Bakes     
+George Barrell     
+Stefan Behnke     
+Eduard Bitterli     
+Anna Bogdanova     
+Wolfgang Braun     
+Minh Bui     
+Justin Carrillo     
+John Cavanaugh     
+Xiaoyi Chen     
+Brian Chu     
+Sushil Da Silva     
+Jason Dubaniewicz     
+Aboo B S Fatally     
+Timothy Feeney     
+Jonathon Fidiam     
+Fergus Frew     
+Daniel Garcia     
+Darryl Geary     
+Ruben Gutierrez-Priego     
 Hayssam Hajar
 {{< tdclose >}}{{< tdopen >}}
-Andrea Harman    
-Andrea M. Henshall    
-Jim Hillhouse    
-Gregory Hoke    
-Robert Jeffers    
-Abhishek Kamodia    
-Gregory Kashkin    
-Ulrich Kausch    
-Holger Kienle    
-Hans-Juergen Kiesow    
-Wiktor Kondrusiewicz    
-Kevin Larsen    
-Y. Charlotte Lau    
-David Lin    
-Dale Logan    
-Keith R. Milkove    
-Lara B. and Scott B. Morrison    
-Seanan Murphy    
-Yasen Nikolov    
-Jonas Pettersson    
-Katarzyna Piotrowska    
-Pongnarit Plengsangsri    
-William N. Pohlmann    
-Jordan Rahaman    
+Andrea Harman     
+Andrea M. Henshall     
+Jim Hillhouse     
+Gregory Hoke     
+Robert Jeffers     
+Abhishek Kamodia     
+Gregory Kashkin     
+Ulrich Kausch     
+Holger Kienle     
+Hans-Juergen Kiesow     
+Wiktor Kondrusiewicz     
+Kevin Larsen     
+Y. Charlotte Lau     
+David Lin     
+Dale Logan     
+Keith R. Milkove     
+Lara B. and Scott B. Morrison     
+Seanan Murphy     
+Yasen Nikolov     
+Jonas Pettersson     
+Katarzyna Piotrowska     
+Pongnarit Plengsangsri     
+William N. Pohlmann     
+Jordan Rahaman     
 Qing Ran
 {{< tdclose >}}{{< tdopen >}}
-John Rizzo    
-Ralph D. Samuelson    
-Michael Sandstrom    
-Sanjaya K. Saxena    
-Sean Silva    
-Ashley Sjodin    
-Leijun Song    
-Mike Speciner    
-Sira Sriswasdi    
-Martijn Stegeman    
-Philip P. Sung    
-Sittampalam Thirugnanasampanthan    
-Matthew Thornton    
-Christine Tolle    
-Merijn Van De Water    
-Thomas B. Wilson    
-Daniel Yu    
-Alper Yuce    
+John Rizzo     
+Ralph D. Samuelson     
+Michael Sandstrom     
+Sanjaya K. Saxena     
+Sean Silva     
+Ashley Sjodin     
+Leijun Song     
+Mike Speciner     
+Sira Sriswasdi     
+Martijn Stegeman     
+Philip P. Sung     
+Sittampalam Thirugnanasampanthan     
+Matthew Thornton     
+Christine Tolle     
+Merijn Van De Water     
+Thomas B. Wilson     
+Daniel Yu     
+Alper Yuce     
 Shun Zhu
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
