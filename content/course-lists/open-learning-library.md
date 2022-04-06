@@ -41,11 +41,11 @@ courses:
   title: Lean Research Skills for Conducting Interviews
 - id: hst-953-collaborative-data-science-for-healthcare-fall-2020
   title: Collaborative Data Science for Healthcare
-description: "#### **The MIT Open Learning Library is home to selected educational\
-  \ content from MIT OpenCourseWare and MITx courses, available for free to anyone\
-  \ in the world at any time.**\n\nMIT is committed to sharing learning materials\
-  \ with the world. The Open Learning Library provides additional opportunities to\
-  \ learn from MIT at your own pace, engaging with interactive problems and receiving\
+description: "The MIT Open Learning Library is home to selected educational content\
+  \ from MIT OpenCourseWare and [MITx courses](https://www.edx.org/school/mitx), available\
+  \ for free to anyone in the world at any time.\n\nMIT is committed to sharing learning\
+  \ materials with the world. The Open Learning Library provides additional opportunities\
+  \ to learn from MIT at your own pace, engaging with interactive problems and receiving\
   \ instant feedback.\n\n#### **Interactive Assessments and Progress Tracking**\n\n\
   You can view and use all Open Learning Library materials without enrolling.\_\n\n\
   If you want to track your progress through a course, create a free Open Learning\
@@ -73,6 +73,6 @@ description: "#### **The MIT Open Learning Library is home to selected education
   \ through the subject matter. And like OCW, this content is always open and self-guided\
   \ and includes no live support, discussion forum, or certificates."
 draft: false
-title: Open Learning Library
+title: MIT Open Learning Library
 uid: 44c3f9fd-6d57-4e31-8b94-c9160b3186e4
 ---
