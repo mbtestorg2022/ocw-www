@@ -18,7 +18,7 @@ To-date, 5.111 has received more than 1.8 million website visits providing thous
 
 The course also includes the complete reading and lecture notes for all 36 sessions, course exams with solutions, equation sheets and the final exam. ***The support from the Class of 2009 made it possible to publish full video lectures with captions and interactive transcripts***, which allow learners to search for and jump to keywords within each lecture, and highlight clips to share.
 
-*"Thank you and thank you so much, we are in Indonesia, English is our second language, we learn a lot because we can listen to them and read what they are saying. They are very good teacher and we love chemistry."*
+> *"Thank you and thank you so much, we are in Indonesia, English is our second language, we learn a lot because we can listen to them and read what they are saying. They are very good teacher and we love chemistry."*
 
 *— Muhmmad*
 
@@ -36,7 +36,7 @@ Teaching a large class with 350 students is challenging, and success depends upo
 
 [They learn how to teach the subject](https://old.ocw.mit.edu/courses/chemistry/5-111-principles-of-chemical-science-fall-2008/ta-training) and about team building, active learning strategies, challenges in teaching 5.111, and diversity issues. The TAs’ shared experience fosters a sense of group identity among them, so they also support one other as a team.
 
-*"We start the semester with a group of teaching assistants who are really excited about being part of the course. This has had such a wonderful impact on the learning experiences of students. They see that the whole teaching team wants to be there, is enthusiastic about the opportunity to teach them, and cares about each and every one of the students."*
+> *"We start the semester with a group of teaching assistants who are really excited about being part of the course. This has had such a wonderful impact on the learning experiences of students. They see that the whole teaching team wants to be there, is enthusiastic about the opportunity to teach them, and cares about each and every one of the students."*
 
 *— Catherine Drennan*
 
@@ -50,7 +50,7 @@ In publishing 5.111, the support the Class of 2009 helped create the opportunity
 
 [A Resource Index page collects and organizes](https://old.ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/resource-index) the course materials sequentially and by content type (video lectures, notes, problem sets, etc.), allowing learners to quickly find topics and see how all the content is connected and related to real world applications.
 
-*"You can tell Dr. Drennan really cares about the learning of her students. Everything is so clear and descriptive. Her lectures have forced me to rethink my previous aversion to Chemistry. All I can say is thank you!!"*
+> *"You can tell Dr. Drennan really cares about the learning of her students. Everything is so clear and descriptive. Her lectures have forced me to rethink my previous aversion to Chemistry. All I can say is thank you!!"*
 
 *—  From a YouTube comment*
 
@@ -64,7 +64,7 @@ The videos bring the why and the who of chemistry research into introductory cla
 
 The science videos can be searched by chemistry topic (i.e. atomic theory, bonding, acid-base equilibrium) or by research application. A set of accompanying personal videos, one for each scientist featured, illustrates the journeys to becoming a scientist. Some of these videos highlight challenges that have been overcome, such as dealing with learning disabilities, growing up gay and intellectual in a conservative small town, and having to learn English in order to understand science class.
 
-*"MIT students, and I think so many people out there, want to make the world a better place. They need the tools… I want to create those tools for them to learn so that they can apply (their knowledge), do something important, and see the power of chemistry."*
+> *"MIT students, and I think so many people out there, want to make the world a better place. They need the tools… I want to create those tools for them to learn so that they can apply (their knowledge), do something important, and see the power of chemistry."*
 
 *— Catherine Drennan*
 
@@ -74,7 +74,7 @@ We are grateful for the support of the MIT Class of 2009 because it enabled the 
 
 ## **Class of 2009 supports OCW**
 
-*"Every student touches OCW. And it's not only good for students at MIT, but for people everywhere. OCW is MIT's stamp on the world."*
+> *"Every student touches OCW. And it's not only good for students at MIT, but for people everywhere. OCW is MIT's stamp on the world."*
 
 *—  The Class of 2009*
 
