@@ -4,7 +4,7 @@ draft: false
 image:
   content: ab040f8c-8ca0-4157-b686-11dcc409cb78
   website: ocw-www
-link_title: Listen Now
+link_title: 'Listen Now '
 link_url: https://chalk-radio.simplecast.com/
 subtitle: ''
 title: Real conversations with inspiring MIT faculty about how they teach.
