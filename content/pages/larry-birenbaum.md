@@ -13,10 +13,14 @@ Larry Birenbaum, a 1969 MIT graduate in Electrical Engineering, has an impressiv
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 ![MIT alumnus and OCW supporter, Larry Birenbaum.](https://old.ocw.mit.edu/give/our-supporters/larry-birenbaum/birenbaum.jpg)
 {{< tdclose >}}{{< tdopen >}}
+
 For example, Birenbaum, who is the former Senior Vice President and Group General Manager of the Ethernet Access Group at Cisco Systems, was a founding member of the 3Com Corporation, and one of the donors of the 3Com Chair in MIT's Laboratory of Computer Science in 1999. Birenbaum and his wife, Jan, also established an MIT scholarship fund which supports MIT undergraduates who were born as citizens of another country and immigrated to the United States, and became U.S. citizens.
-{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 Birenbaum, who is himself a naturalized citizen, feels it is important to make an MIT education accessible to gifted students – just as, decades ago, a scholarship helped make MIT accessible and affordable for him.
+
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+
+ 
 
 ## A radical approach to using the Internet
 
