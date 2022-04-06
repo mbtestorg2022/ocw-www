@@ -5,8 +5,8 @@ title: Jon Gruber
 uid: 57db5d1e-862d-4e14-92fd-eac91e142cf1
 ---
 > *"MIT OpenCourseWare was a most distinct idea."*
-
-*– Jon Gruber*
+> 
+> *– Jon Gruber*
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 ![Jon Gruber](https://old.ocw.mit.edu/about/ocw-stories/jon-gruber/gruber.jpg)
