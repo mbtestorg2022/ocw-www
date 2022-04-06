@@ -5,8 +5,8 @@ title: Abhay Parekh
 uid: c7800101-3faa-4796-8658-fba24f3b44cc
 ---
 > *“I think if you look at OCW, you see the power of an idea.”*
-
-*— Abhay Parekh*
+> 
+> *— Abhay Parekh*
 
 ![AbhayParekh2.jpeg](https://old.ocw.mit.edu/give/our-supporters/abhay-parekh/AbhayParekh2.jpeg)Abhay Parekh 'SM '86, PhD '92
 
