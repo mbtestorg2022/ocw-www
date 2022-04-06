@@ -4,7 +4,7 @@ draft: false
 title: John Klug
 uid: 6f93f8f1-e119-4d11-8148-7d0de8483d10
 ---
-*"The knowledge developed here will help people of all nations - especially those with learning differences - participate more fully in the building of a better world."*
+> *"The knowledge developed here will help people of all nations - especially those with learning differences - participate more fully in the building of a better world."*
 
 *— John Klug*
 
