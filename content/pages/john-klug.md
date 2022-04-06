@@ -5,8 +5,8 @@ title: John Klug
 uid: 6f93f8f1-e119-4d11-8148-7d0de8483d10
 ---
 > *"The knowledge developed here will help people of all nations - especially those with learning differences - participate more fully in the building of a better world."*
-
-*— John Klug*
+> 
+> *— John Klug*
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 ![OCW supporter John Klug.](https://old.ocw.mit.edu/give/our-supporters/john-klug/klug.jpg)
@@ -16,9 +16,9 @@ Several years ago, \[MIT OpenCourseWare Director of External Relations\] Steve C
 
 At the time, I was highly aware of the growing contingent of American high school students disconnecting from education, and felt higher education needed to be more responsible – along with our local communities – in developing better ways to capture and spur on our national youth's imagination, vision and focus.
 
-{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
-
 By opening their courses to the world-at-large, MIT invited the general public into a spacious global living room (with many windows and myriad views) where great dialogues and teachings were taking place, and where concentrated knowledge was now available.
+
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 By deciding to become an OCW supporter, I created a little challenge for myself: find an empowering course that directly relates to my 20-year focus on global economic development.
 
