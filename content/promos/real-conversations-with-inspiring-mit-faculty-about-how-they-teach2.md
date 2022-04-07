@@ -7,6 +7,6 @@ image:
 link_title: Listen now.
 link_url: https://chalk-radio.simplecast.com/
 subtitle: ''
-title: Real conversations with inspiring MIT faculty about how they teach.
+title: Conversations with inspiring MIT faculty about how they teach.
 uid: d23639c6-7223-4ce6-9903-bc6ef6027803
 ---
