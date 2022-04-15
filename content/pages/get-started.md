@@ -49,11 +49,11 @@ There’s no registration and no enrollment to use OCW. It's all open! You can s
 
 OCW does not offer any degree, credit, or certification. For MIT online courses with certificates of completion, visit:
 
-- [MITx Online/MITx on edX](https://openlearning.mit.edu/courses-programs/mitx-courses?f%5B0%5D=course_availability%3A62&__hstc=215508872.8b0d6a564d954ec36735e5f3e5a4d717.1644420099739.1648738214719.1648749631544.13&__hssc=215508872.14.1648749631544&__hsfp=689994695)
-- [MITx MicroMasters](https://openlearning.mit.edu/courses-programs/micromasters-programs?__hstc=215508872.8b0d6a564d954ec36735e5f3e5a4d717.1644420099739.1648738214719.1648749631544.13&__hssc=215508872.14.1648749631544&__hsfp=689994695)
-- [MIT xPRO](https://openlearning.mit.edu/courses-programs/mit-xpro?__hstc=215508872.8b0d6a564d954ec36735e5f3e5a4d717.1644420099739.1648738214719.1648749631544.13&__hssc=215508872.14.1648749631544&__hsfp=689994695)
-- [MIT Bootcamps](https://bootcamp.mit.edu/?__hstc=215508872.8b0d6a564d954ec36735e5f3e5a4d717.1644420099739.1648738214719.1648749631544.13&__hssc=215508872.14.1648749631544&__hsfp=689994695)
-- [MIT Management / Sloan Executive Education](http://executive.mit.edu/?__hstc=215508872.8b0d6a564d954ec36735e5f3e5a4d717.1644420099739.1648738214719.1648749631544.13&__hssc=215508872.14.1648749631544&__hsfp=689994695)
+- [MITx Online/MITx on edX](https://openlearning.mit.edu/courses-programs/mitx-courses)
+- [MITx MicroMasters](https://openlearning.mit.edu/courses-programs/micromasters-programs)
+- [MIT xPRO](https://openlearning.mit.edu/courses-programs/mit-xpro)
+- [MIT Bootcamps](https://bootcamps.mit.edu/)
+- [MIT Management / Sloan Executive Education](https://exec.mit.edu/)
 
 For questions about these programs, please contact them directly.
 
@@ -63,12 +63,12 @@ We know that video lectures are important. In recent years, OCW has substantiall
 
 **Can you suggest a sequence of courses to study?**
 
-To see what courses MIT requires for its degree programs, refer to the [MIT curriculum guide](https://mitocw.zendesk.com/hc/en-us/articles/4938917523611) and individual [department and program websites](https://web.mit.edu/education/schools-and-departments/?__hstc=215508872.8b0d6a564d954ec36735e5f3e5a4d717.1644420099739.1648738214719.1648749631544.13&__hssc=215508872.14.1648749631544&__hsfp=689994695). Please note that OCW cannot offer degrees or course credit.
+To see what courses MIT requires for its degree programs, refer to the [MIT curriculum guide](https://mitocw.zendesk.com/hc/en-us/articles/4938917523611) and individual [department and program websites](https://web.mit.edu/education/schools-and-departments/). Please note that OCW cannot offer degrees or course credit.
 
 **How do I get a copy of the course pack or readings for a particular course?**
 
 The course packs or reading materials used in many MIT courses contain proprietary and copyrighted work that MIT faculty and students are only permitted to use within their classrooms. OCW cannot provide these materials under our license. Your local library may be able to help you find free copies of these works.
 
-**I have more questions…** 
+**I have more questions…**
 
 Please see our complete [Help & FAQs](https://mitocw.zendesk.com/hc/en-us) section, or [contact us](https://ocw.mit.edu/contact) and a member of the OCW team will get back to you.
