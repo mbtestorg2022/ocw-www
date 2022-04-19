@@ -6,9 +6,7 @@ uid: c7800101-3faa-4796-8658-fba24f3b44cc
 ---
 > *“I think if you look at OCW, you see the power of an idea.”*
 > 
-> *— Abhay Parekh*
-
-![AbhayParekh2.jpeg](https://old.ocw.mit.edu/give/our-supporters/abhay-parekh/AbhayParekh2.jpeg)Abhay Parekh 'SM '86, PhD '92
+> *— Abhay Parekh 'SM '86, PhD '92*
 
 When Abhay Parekh, who earned his doctorate in Electrical Engineering from MIT in 1992, first heard of MIT OpenCourseWare, he immediately recognized the potential of the program. "Having grown up in India, I didn't really feel as a high school student that I had access to all the information that I wanted. If I had the opportunity to take advantage of something like OpenCourseWare I would have had way more fun learning."
 
