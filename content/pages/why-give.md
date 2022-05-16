@@ -30,7 +30,7 @@ OCW has inspired a worldwide movement that now includes hundreds of universities
 
 #### **What is the impact of OCW on the world?**
 
-No one better captures the impact OCW has on the world than the thousands of learners who use OCW each day, a vibrant community of university and high school students, educators, and independent and lifelong learners from all over the world. To hear their stories, we invite you to {{% resource_link "c7fec4ec-5db8-4c4f-af8b-169aa263c996" "read a compilation of some of the inspirational feedback" %}} we've received over the years. We've created a 20th edition of the [OCW Book of Impact](https://ocw.mit.edu/give/our-supporters/ocw-impact/20th-anniversary/) that recognizes this milestone. 
+No one better captures the impact OCW has on the world than the thousands of learners who use OCW each day, a vibrant community of university and high school students, educators, and independent and lifelong learners from all over the world. To hear their stories, we invite you to {{% resource_link "c7fec4ec-5db8-4c4f-af8b-169aa263c996" "read a compilation of some of the inspirational feedback" %}} we've received over the years. We've created a 20th edition of the {{% resource_link "6955cd96-4d05-4606-82a7-5e6cec493300" "OCW Book of Impact" %}} that recognizes this milestone. 
 
 To learn more about MIT OpenCourseWare's impact, {{% resource_link "6955cd96-4d05-4606-82a7-5e6cec493300" "read our latest impact report" %}}.
 
