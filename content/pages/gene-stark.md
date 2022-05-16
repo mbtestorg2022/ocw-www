@@ -1,5 +1,5 @@
 ---
-content_type: pages
+content_type: page
 draft: false
 title: Gene Stark
 uid: 49099a64-c108-4dfb-b371-0e7b60034178
@@ -21,6 +21,8 @@ What Gene saw in those early days was the potential for public service at a scal
 This effort has also made his own relationship with the Institute much more personal, allowing him to share MIT with young learners in his life. From attempting to tackle [Intro to Biology](https://ocw.mit.edu/courses/biology/7-012-introduction-to-biology-fall-2004/) with his thirteen-year-old grandson, to sharing OCW with his grandchildren’s teachers and classmates, it’s given him the chance to connect others with the type of thoughtful intellectual stimulation he remembers from his own time at MIT. The variety of readings, videos, and problem sets available on OCW give you what you need to master a subject—without ever making it boring, Gene says.
 
 ![Gene Stark ](https://www.ocw-openmatters.org/wp-content/uploads/2021/02/Gene_stark.jpg)
+
+{{< resource uuid="8236817a-ed79-4a20-85cc-c2180e590d6f" >}}
 
 Eugene “Gene” Stark ‘68, SM ‘69, ScD ‘72 has been an OCW supporter for over fifteen years.
 
