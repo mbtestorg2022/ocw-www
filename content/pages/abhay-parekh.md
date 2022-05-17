@@ -8,11 +8,15 @@ uid: c7800101-3faa-4796-8658-fba24f3b44cc
 > 
 > *— Abhay Parekh 'SM '86, PhD '92*
 
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 {{< resource uuid="2557e9ba-2805-43bf-ab0a-25759a84eee1" >}}
+{{< tdclose >}}{{< tdopen >}}
 
 When Abhay Parekh, who earned his doctorate in Electrical Engineering from MIT in 1992, first heard of MIT OpenCourseWare, he immediately recognized the potential of the program. "Having grown up in India, I didn't really feel as a high school student that I had access to all the information that I wanted. If I had the opportunity to take advantage of something like OpenCourseWare I would have had way more fun learning."
 
 Parekh became an early supporter and member of the OCW External Advisory Board in the early 2000s, directing his gift to help establish a pipeline of faculty contributions from the Electrical Engineering and Computer Science (EECS) department to the OCW platform. He quickly saw the value of video and multimedia for students and independent learners alike coming to the OCW site.
+
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 Today, Parekh is an Adjunct Professor of EECS at U.C. Berkeley, and still an avid user of OCW. As part of our 20th anniversary, we asked him to look back on his experience with OCW over the years, and why it still matters for learners and alumni today.
 
