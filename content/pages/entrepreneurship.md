@@ -1,5 +1,5 @@
 ---
-content_type: pages
+content_type: page
 title: Entrepreneurship
 uid: 6ef1c76f-7aca-4d35-b598-23d03ed0b803
 ---

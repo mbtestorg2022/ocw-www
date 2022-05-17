@@ -1,5 +1,5 @@
 ---
-content_type: pages
+content_type: page
 draft: false
 title: Gene Sprouse
 uid: 04779b02-0f0c-45d7-806e-ac653fc4f63a

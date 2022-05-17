@@ -1,5 +1,5 @@
 ---
-content_type: pages
+content_type: page
 draft: false
 title: Abhay Parekh
 uid: c7800101-3faa-4796-8658-fba24f3b44cc

@@ -1,5 +1,5 @@
 ---
-content_type: pages
+content_type: page
 draft: false
 title: Welcome to the new OCW website!
 uid: 6d308f4c-fa8a-497e-b21b-989af4fbf7bb

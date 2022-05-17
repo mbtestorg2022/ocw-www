@@ -1,5 +1,5 @@
 ---
-content_type: pages
+content_type: page
 draft: false
 title: Larry Birenbaum
 uid: 5cfcea55-d091-450b-9acd-8fbb00448fd4

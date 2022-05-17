@@ -1,5 +1,5 @@
 ---
-content_type: pages
+content_type: page
 draft: false
 title: Become a Corporate Sponsor
 uid: c7424c79-e18f-40c3-ae23-f31e23c5808c

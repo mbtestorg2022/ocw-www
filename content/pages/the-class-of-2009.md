@@ -1,5 +1,5 @@
 ---
-content_type: pages
+content_type: page
 draft: false
 title: The Class of 2009
 uid: d93fbd34-d215-4ed5-8906-900e179bc35c

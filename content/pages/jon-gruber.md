@@ -1,5 +1,5 @@
 ---
-content_type: pages
+content_type: page
 draft: false
 title: Jon Gruber
 uid: 57db5d1e-862d-4e14-92fd-eac91e142cf1

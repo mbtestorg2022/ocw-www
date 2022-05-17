@@ -1,5 +1,5 @@
 ---
-content_type: pages
+content_type: page
 draft: false
 title: Other Ways to Contribute
 uid: d86966a2-9b24-49a2-b247-ea124f63a35a

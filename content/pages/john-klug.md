@@ -1,5 +1,5 @@
 ---
-content_type: pages
+content_type: page
 draft: false
 title: John Klug
 uid: 6f93f8f1-e119-4d11-8148-7d0de8483d10

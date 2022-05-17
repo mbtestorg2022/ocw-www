@@ -1,5 +1,5 @@
 ---
-content_type: pages
+content_type: page
 title: Transportation
 uid: dafb7864-76df-46e5-878a-22b3c04f8970
 ---
