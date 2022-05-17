@@ -9,7 +9,7 @@ uid: 57db5d1e-862d-4e14-92fd-eac91e142cf1
 > *– Jon Gruber*
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-![Jon Gruber](https://old.ocw.mit.edu/about/ocw-stories/jon-gruber/gruber.jpg)
+{{< resource uuid="464bebf5-2d5c-46ce-89d4-4fde1a62c697" >}}
 {{< tdclose >}}{{< tdopen >}}
 
 Jon Gruber (MIT class of 1964) supports MIT OpenCourseWare through a generous financial gift.
