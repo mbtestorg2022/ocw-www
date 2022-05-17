@@ -9,7 +9,7 @@ uid: 04779b02-0f0c-45d7-806e-ac653fc4f63a
 > *— Gene Sprouse*
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-![Gene Sprouse](https://old.ocw.mit.edu/about/ocw-stories/gene-sprouse/sprouse.jpg)
+{{< resource uuid="5bfae4c5-c629-447d-b5da-044d2473ebda" >}}
 {{< tdclose >}}{{< tdopen >}}
 
 Gene Sprouse always had a passion for science and physics. Originally encouraged by his high school physics teacher, Sprouse nurtured his enthusiasm for physics through college and graduate school.
