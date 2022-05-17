@@ -3,11 +3,11 @@ content_type: resource
 description: ''
 draft: false
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/serc_sitehome.jpeg
-filetype: Image
 metadata:
   caption: ''
   credit: 'Courtesy of University of Saskatchewan (usask) on Flickr. License: CC BY-NC-SA.'
   image_alt: Photo of several students working together at a table with laptop computers.
+resourcetype: Image
 title: SERC_sitehome
 uid: 4b9140df-f89a-4eca-a51c-b350f163bbe3
 ---

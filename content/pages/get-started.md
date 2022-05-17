@@ -1,5 +1,5 @@
 ---
-content_type: pages
+content_type: page
 draft: false
 title: Get Started
 uid: e166242e-6b45-43f0-9d17-9bbab1be91dd
