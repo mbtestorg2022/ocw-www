@@ -1,5 +1,5 @@
 ---
-content_type: pages
+content_type: page
 draft: false
 title: Privacy and Terms of Use
 uid: 5b621e71-47ab-479b-b186-72abb3b69110
