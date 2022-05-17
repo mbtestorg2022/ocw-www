@@ -11,7 +11,7 @@ uid: 5cfcea55-d091-450b-9acd-8fbb00448fd4
 Larry Birenbaum, a 1969 MIT graduate in Electrical Engineering, has an impressive history of giving back to his alma mater. In the past, his gifts – like those of many donors to Institute – have supported departments that transformed his own MIT experience. 
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-![MIT alumnus and OCW supporter, Larry Birenbaum.](https://old.ocw.mit.edu/give/our-supporters/larry-birenbaum/birenbaum.jpg)
+{{< resource uuid="f54c159d-def3-413e-84ba-68327018a953" >}}
 {{< tdclose >}}{{< tdopen >}}
 
 For example, Birenbaum, who is the former Senior Vice President and Group General Manager of the Ethernet Access Group at Cisco Systems, was a founding member of the 3Com Corporation, and one of the donors of the 3Com Chair in MIT's Laboratory of Computer Science in 1999. Birenbaum and his wife, Jan, also established an MIT scholarship fund which supports MIT undergraduates who were born as citizens of another country and immigrated to the United States, and became U.S. citizens.
