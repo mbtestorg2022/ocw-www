@@ -8,7 +8,7 @@ uid: c7800101-3faa-4796-8658-fba24f3b44cc
 > 
 > *— Abhay Parekh 'SM '86, PhD '92*
 
-{{< resource uuid="357932b1-f315-48dd-8313-c09ee6a22793" >}}
+{{< resource uuid="2557e9ba-2805-43bf-ab0a-25759a84eee1" >}}
 
 When Abhay Parekh, who earned his doctorate in Electrical Engineering from MIT in 1992, first heard of MIT OpenCourseWare, he immediately recognized the potential of the program. "Having grown up in India, I didn't really feel as a high school student that I had access to all the information that I wanted. If I had the opportunity to take advantage of something like OpenCourseWare I would have had way more fun learning."
 
