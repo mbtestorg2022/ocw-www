@@ -9,7 +9,7 @@ uid: 6f93f8f1-e119-4d11-8148-7d0de8483d10
 > *— John Klug*
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-![OCW supporter John Klug.](https://old.ocw.mit.edu/give/our-supporters/john-klug/klug.jpg)
+{{< resource uuid="d14a2349-8f8b-4080-91c2-aa2b0be352d3" >}}
 {{< tdclose >}}{{< tdopen >}}
 
 Several years ago, \[MIT OpenCourseWare Director of External Relations\] Steve Carson joined me on my radio show, *Building A Better World*, to share the great story of OCW and the international movement that was following in its wake.
