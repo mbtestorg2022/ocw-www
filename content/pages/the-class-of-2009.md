@@ -8,13 +8,13 @@ Thanks to the support from the Class of 2009, OCW was able to update the video l
 
 ## **What Was Made Possible by This Support**
 
-[![A skewed, cropped screenshot of the 5.111 course home page on MIT OpenCourseWare.](https://old.ocw.mit.edu/give/our-supporters/the-class-of-2009/5-111_2008chp.png)](https://old.ocw.mit.edu/courses/chemistry/5-111-principles-of-chemical-science-fall-2008)
+{{< resource uuid="a677b3f3-251d-48f8-89ae-aaa359712ec0" >}}
 
 In 2008, 5.111 was co-taught by Professors Cathy Drennan and Beth Vogel-Taylor. With the interest in sharing a different method to teaching the course, Professor Vogel-Taylor approached OCW to re-film class sessions and publish the lecture notes. This course update proved more popular than its Fall 2005 version, generating an average of more than 500 daily course site web visits.
 
 To-date, 5.111 has received more than 1.8 million website visits providing thousands of people with the practical knowledge of the chemistry of biological, inorganic, and organic molecules. Learners are able to synthesize the basic principles of atomic and molecular electronic structure, thermodynamics, acid-base and redox equilibria, chemical kinetics, and catalysis.
 
-[![Text graphic reading '5.111 videos have received a joint total of more than 3.2 million views on YouTube.'](https://old.ocw.mit.edu/give/our-supporters/the-class-of-2009/youtube_views.png)](https://www.youtube.com/watch?v=-c-X8zk0ywo&list=PL2902385153144A26)
+{{< resource uuid="c8e2082f-3b7c-4d87-b7ad-9267b25a3a70" >}}
 
 The course also includes the complete reading and lecture notes for all 36 sessions, course exams with solutions, equation sheets and the final exam. ***The support from the Class of 2009 made it possible to publish full video lectures with captions and interactive transcripts***, which allow learners to search for and jump to keywords within each lecture, and highlight clips to share.
 
@@ -28,7 +28,7 @@ To illuminate connections between chemistry and biology and spark students' exci
 
 A list of the biology-, medicine-, and MIT research-related examples used in 5.111 is provided in each example in a PDF. To reinforce the connections formed in lecture, biology-related problems were also include in each homework assignment.
 
-[![A graphic showing connected course materials labeled 'Lecture Topics', 'Biological Examples', and 'Biology-Related Homework Problems and In-Class Demonstrations/Activities.'](https://old.ocw.mit.edu/give/our-supporters/the-class-of-2009/bio_related.png)](https://old.ocw.mit.edu/courses/chemistry/5-111-principles-of-chemical-science-fall-2008/biology-related-examples)
+{{< resource uuid="7aa1a7d8-2f4b-4d8f-9ba0-459e8d92754c" >}}
 
 ## **Building a Team of Teachers**
 
@@ -42,7 +42,7 @@ Teaching a large class with 350 students is challenging, and success depends upo
 
 ## **Reaching More Independent Learners**
 
-[![Text graphic reading In less than one year since it was published, 5.111SC has received more than 151,000 website visits.'](https://old.ocw.mit.edu/give/our-supporters/the-class-of-2009/151k.png)](https://old.ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014)
+{{< resource uuid="3ac810a6-f760-4543-987a-01dc6dd6160a" >}}
 
 In publishing 5.111, the support the Class of 2009 helped create the opportunity for any learner to gain a deep understanding for the principles of chemistry. This course laid the groundwork for a more holistic approach to learning chemistry. OCW collaborated with Professor Drennan to create an OCW Scholar version of 5.111, known as 5.111SC, for learners interested in mastering foundational subjects at the college level, and includes similar content from 5.111.
 
@@ -56,7 +56,7 @@ In publishing 5.111, the support the Class of 2009 helped create the opportunity
 
 ## **Creating an Ecosystem of Chemistry Appreciation**
 
-[![A screenshot of the Behind the Scenes at MIT website, featuring images of 5 people ranging from student to researcher to instructor, surrounded by chemistry-themed equipment and imagery.](https://old.ocw.mit.edu/give/our-supporters/the-class-of-2009/behind_scenes.png)](https://old.ocw.mit.edu/courses/chemistry/5-111-principles-of-chemical-science-fall-2008/related-resources)
+{{< resource uuid="0d7a7778-325a-494c-b059-ef9fccb3c971" >}}
 
 Many of the topics in 5.111 are brought even more to life through accompanying [“Behind the Scenes at MIT” videos](https://old.ocw.mit.edu/courses/chemistry/5-111-principles-of-chemical-science-fall-2008/related-resources). Professor Drennan’s passion for chemistry and strong belief that chemistry can help solve some of the world’s problems led her to create this collection of short videos, featuring MIT researchers explaining how a textbook chemistry topic is essential both to their research and to an inspiring real-world application. The videos were produced by the [Drennan Research and Education Laboratory](http://drennan.mit.edu/) as part of a [Howard Hughes Medical Institute](http://www.hhmi.org/) (HHMI) Professors grant.
 
@@ -78,7 +78,7 @@ We are grateful for the support of the MIT Class of 2009 because it enabled the 
 > 
 > *—  The Class of 2009*
 
-![MIT Class of 2009 at Commencement.](https://old.ocw.mit.edu/give/our-supporters/the-class-of-2009/class_of_09.jpg)
+{{< resource uuid="e8d71664-9884-4d22-8cb0-b35db0519183" >}}
 
 *The class of 2009. Yvonne Ng | MIT OpenCourseWare*
 
