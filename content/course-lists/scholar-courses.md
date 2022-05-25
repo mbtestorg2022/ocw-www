@@ -31,6 +31,6 @@ description: OCW Scholar courses are designed for independent learners who have 
   repurposed from MIT classrooms. The materials are also arranged in logical sequences
   and include multimedia such as video and simulations.
 draft: false
-title: Scholar Courses
+title: OCW Scholar Courses
 uid: 2b404bc3-dd20-4e8c-b4c2-bc70f9d4a838
 ---
