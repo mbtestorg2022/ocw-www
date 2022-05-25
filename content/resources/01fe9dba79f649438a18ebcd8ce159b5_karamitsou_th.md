@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/01fe9dba79f649438a18ebcd8ce159b5_karamitsou_th.jpg
+file: /ocw-www/01fe9dba79f649438a18ebcd8ce159b5_karamitsou_th.jpg
 metadata:
   caption: ''
   credit: ''

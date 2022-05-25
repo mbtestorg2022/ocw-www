@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/2a2b6e3209bb4bbcb38eef04acb29388_social-response-crisis.jpg
+file: /ocw-www/2a2b6e3209bb4bbcb38eef04acb29388_social-response-crisis.jpg
 metadata:
   caption: ''
   credit: ''
