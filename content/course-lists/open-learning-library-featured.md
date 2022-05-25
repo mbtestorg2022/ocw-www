@@ -1,13 +1,13 @@
 ---
 content_type: course-lists
 courses:
-- id: 3-012sx-structure-of-materials-spring-2019
+- id: courses/3-012sx-structure-of-materials-spring-2019
   title: Structure of Materials
-- id: 8-370x-quantum-information-science-i-spring-2018
+- id: courses/8-370x-quantum-information-science-i-spring-2018
   title: Quantum Information Science I
-- id: res-cms-155-design-thinking-for-leading-and-learning-spring-2019
+- id: courses/res-cms-155-design-thinking-for-leading-and-learning-spring-2019
   title: Design Thinking for Leading and Learning
-- id: res-15-005-healthcare-finance-15-482x-spring-2019
+- id: courses/res-15-005-healthcare-finance-15-482x-spring-2019
   title: Healthcare Finance (15.482x)
 description: ''
 draft: false

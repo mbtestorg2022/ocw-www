@@ -1,13 +1,13 @@
 ---
 content_type: course-lists
 courses:
-- id: 6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016
+- id: courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016
   title: Introduction to Computer Science and Programming in Python
-- id: 6-0002-introduction-to-computational-thinking-and-data-science-fall-2016
+- id: courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016
   title: Introduction to Computational Thinking and Data Science
-- id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
+- id: courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011
   title: Introduction to Computer Science and Programming
-- id: 6-s095-programming-for-the-puzzled-january-iap-2018
+- id: courses/6-s095-programming-for-the-puzzled-january-iap-2018
   title: Programming for the Puzzled
 description: "These courses introduce principles of computer science and begin to\
   \ develop programming skills, specifically in the Python language. Learn more about\
