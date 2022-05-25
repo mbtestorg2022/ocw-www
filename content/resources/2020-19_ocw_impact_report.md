@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/2020-19_ocw_impact_report.pdf
+file: /ocw-www/2020-19_ocw_impact_report.pdf
 metadata:
   caption: ''
   credit: ''

@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/collingwood.jpg
+file: /ocw-www/collingwood.jpg
 metadata:
   caption: ''
   credit: ''

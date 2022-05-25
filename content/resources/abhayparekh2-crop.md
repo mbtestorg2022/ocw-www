@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/abhayparekh2-crop.jpg
+file: /ocw-www/abhayparekh2-crop.jpg
 metadata:
   caption: ''
   credit: ''

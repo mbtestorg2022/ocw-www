@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/behind_scenes.png
+file: /ocw-www/behind_scenes.png
 metadata:
   caption: ''
   credit: ''

@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/tucker-foltz.jpg
+file: /ocw-www/tucker-foltz.jpg
 metadata:
   caption: ''
   credit: ''

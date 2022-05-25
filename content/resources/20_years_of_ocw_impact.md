@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/20_years_of_ocw_impact.pdf
+file: /ocw-www/20_years_of_ocw_impact.pdf
 metadata:
   caption: ''
   credit: ''

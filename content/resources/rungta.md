@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/rungta.jpg
+file: /ocw-www/rungta.jpg
 metadata:
   caption: ''
   credit: ''

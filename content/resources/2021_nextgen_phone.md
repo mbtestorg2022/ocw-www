@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/2021_nextgen_phone.png
+file: /ocw-www/2021_nextgen_phone.png
 metadata:
   caption: ''
   credit: ''

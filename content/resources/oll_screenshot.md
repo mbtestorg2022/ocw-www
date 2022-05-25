@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/oll_screenshot.jpeg
+file: /ocw-www/oll_screenshot.jpeg
 metadata:
   caption: ''
   credit: ''

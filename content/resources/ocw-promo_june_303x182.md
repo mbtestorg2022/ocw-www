@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/ocw-promo_june_303x182.png
+file: /ocw-www/ocw-promo_june_303x182.png
 metadata:
   caption: ''
   credit: ''

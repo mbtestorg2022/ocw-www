@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/2001_chuckvest.png
+file: /ocw-www/2001_chuckvest.png
 metadata:
   caption: ''
   credit: ''

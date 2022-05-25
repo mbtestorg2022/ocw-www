@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/class_of_09.jpg
+file: /ocw-www/class_of_09.jpg
 metadata:
   caption: ''
   credit: ''

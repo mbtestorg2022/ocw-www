@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/cardone.jpg
+file: /ocw-www/cardone.jpg
 metadata:
   caption: ''
   credit: ''

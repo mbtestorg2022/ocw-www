@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/kyle_lee.jpg
+file: /ocw-www/kyle_lee.jpg
 metadata:
   caption: ''
   credit: ''

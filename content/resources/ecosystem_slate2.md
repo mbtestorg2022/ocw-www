@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/ecosystem_slate2.png
+file: /ocw-www/ecosystem_slate2.png
 metadata:
   caption: ''
   credit: ''

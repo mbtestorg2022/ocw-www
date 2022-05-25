@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/matt_zand.jpg
+file: /ocw-www/matt_zand.jpg
 metadata:
   caption: ''
   credit: ''

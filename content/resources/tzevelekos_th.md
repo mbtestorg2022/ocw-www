@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/tzevelekos_th.png
+file: /ocw-www/tzevelekos_th.png
 metadata:
   caption: ''
   credit: ''

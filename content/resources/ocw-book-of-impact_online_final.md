@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/ocw-book-of-impact_online_final.pdf
+file: /ocw-www/ocw-book-of-impact_online_final.pdf
 metadata:
   caption: ''
   credit: ''

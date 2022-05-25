@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/2018_youtube.png
+file: /ocw-www/2018_youtube.png
 metadata:
   caption: ''
   credit: ''

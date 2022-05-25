@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/ocw-www/ocw-book-final_digital_high_res.pdf
+file: /ocw-www/ocw-book-final_digital_high_res.pdf
 metadata:
   caption: ''
   credit: ''
