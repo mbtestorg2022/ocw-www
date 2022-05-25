@@ -1,41 +1,41 @@
 ---
 content_type: course-lists
 courses:
-- id: 1-018j-ecology-i-the-earth-system-fall-2009
+- id: courses/1-018j-ecology-i-the-earth-system-fall-2009
   title: 'Ecology I: The Earth System'
-- id: 1-020-ecology-ii-engineering-for-sustainability-spring-2008
+- id: courses/1-020-ecology-ii-engineering-for-sustainability-spring-2008
   title: 'Ecology II: Engineering for Sustainability'
-- id: 2-57-nano-to-macro-transport-processes-spring-2012
+- id: courses/2-57-nano-to-macro-transport-processes-spring-2012
   title: Nano-to-Macro Transport Processes
-- id: 2-611-marine-power-and-propulsion-fall-2006
+- id: courses/2-611-marine-power-and-propulsion-fall-2006
   title: Marine Power and Propulsion
-- id: 2-627-fundamentals-of-photovoltaics-fall-2013
+- id: courses/2-627-fundamentals-of-photovoltaics-fall-2013
   title: Fundamentals of Photovoltaics
-- id: 3-003-principles-of-engineering-practice-spring-2010
+- id: courses/3-003-principles-of-engineering-practice-spring-2010
   title: Principles of Engineering Practice
-- id: 4-401-environmental-technologies-in-buildings-fall-2018
+- id: courses/4-401-environmental-technologies-in-buildings-fall-2018
   title: Environmental Technologies in Buildings
-- id: 5-60-thermodynamics-kinetics-spring-2008
+- id: courses/5-60-thermodynamics-kinetics-spring-2008
   title: Thermodynamics & Kinetics
-- id: 6-061-introduction-to-electric-power-systems-spring-2011
+- id: courses/6-061-introduction-to-electric-power-systems-spring-2011
   title: Introduction to Electric Power Systems
-- id: 6-152j-micro-nano-processing-technology-fall-2005
+- id: courses/6-152j-micro-nano-processing-technology-fall-2005
   title: Micro/Nano Processing Technology
-- id: 6-701-introduction-to-nanoelectronics-spring-2010
+- id: courses/6-701-introduction-to-nanoelectronics-spring-2010
   title: Introduction to Nanoelectronics
-- id: 10-302-transport-processes-fall-2004
+- id: courses/10-302-transport-processes-fall-2004
   title: Transport Processes
-- id: 10-626-electrochemical-energy-systems-spring-2014
+- id: courses/10-626-electrochemical-energy-systems-spring-2014
   title: Electrochemical Energy Systems
-- id: 14-42-environmental-policy-and-economics-spring-2011
+- id: courses/14-42-environmental-policy-and-economics-spring-2011
   title: Environmental Policy and Economics
-- id: 15-023j-global-climate-change-economics-science-and-policy-spring-2008
+- id: courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008
   title: 'Global Climate Change: Economics, Science, and Policy'
-- id: 22-033-nuclear-systems-design-project-fall-2011
+- id: courses/22-033-nuclear-systems-design-project-fall-2011
   title: Nuclear Systems Design Project
-- id: 22-06-engineering-of-nuclear-systems-fall-2010
+- id: courses/22-06-engineering-of-nuclear-systems-fall-2010
   title: Engineering of Nuclear Systems
-- id: sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018
+- id: courses/sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018
   title: 'Energy, Environment, and Society: Global Politics, Technologies, and Ecologies
     of the Water-Energy-Food Crises'
 description: "Energy Minor elective courses allow students to tailor their program\
