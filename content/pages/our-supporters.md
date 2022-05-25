@@ -6,7 +6,7 @@ uid: c7fec4ec-5db8-4c4f-af8b-169aa263c996
 ---
 MIT OpenCourseWare is grateful to the following organizations and individuals for their support.
 
-## **Foundations**
+## **Foundations** 
 
 [The William and Flora Hewlett Foundation](http://www.hewlett.org/?utm_source=our-supporters&utm_medium=hewlett&utm_campaign=text_hewlett)
 
@@ -32,12 +32,12 @@ Our in-kind contributors have helped us with their expertise, advice, and networ
 
 ## **Supporter Profiles**
 
-{{% resource_link "5cfcea55-d091-450b-9acd-8fbb00448fd4" "Larry Birenbaum" %}}     
-{{% resource_link "d93fbd34-d215-4ed5-8906-900e179bc35c" "The Class of 2009" %}}     
-{{% resource_link "57db5d1e-862d-4e14-92fd-eac91e142cf1" "Jon Gruber" %}}     
-{{% resource_link "6f93f8f1-e119-4d11-8148-7d0de8483d10" "John Klug" %}}     
-{{% resource_link "c7800101-3faa-4796-8658-fba24f3b44cc" "Abhay Parekh" %}}         
-{{% resource_link "04779b02-0f0c-45d7-806e-ac653fc4f63a" "Gene Sprouse" %}}         
+{{% resource_link "5cfcea55-d091-450b-9acd-8fbb00448fd4" "Larry Birenbaum" %}}      
+{{% resource_link "d93fbd34-d215-4ed5-8906-900e179bc35c" "The Class of 2009" %}}      
+{{% resource_link "57db5d1e-862d-4e14-92fd-eac91e142cf1" "Jon Gruber" %}}      
+{{% resource_link "6f93f8f1-e119-4d11-8148-7d0de8483d10" "John Klug" %}}      
+{{% resource_link "c7800101-3faa-4796-8658-fba24f3b44cc" "Abhay Parekh" %}}          
+{{% resource_link "04779b02-0f0c-45d7-806e-ac653fc4f63a" "Gene Sprouse" %}}          
 {{% resource_link "49099a64-c108-4dfb-b371-0e7b60034178" "Gene Stark" %}}
 
 ## **Individual Supporters**
@@ -57,75 +57,75 @@ We also appreciate the learners who share with us the impact OCW has made in the
 We offer our [OCW Sustainers](https://giving.mit.edu/give/to/ocw-sustainer/) a special thank you for committing to OCW’s long-term sustainability by contributing to OCW on a monthly or annual basis.
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-Corey Abshire         
-Luke Amdor         
-Alexandra T. Ashpole         
-Philip Bakes         
-George Barrell         
-Stefan Behnke         
-Eduard Bitterli         
-Anna Bogdanova         
-Wolfgang Braun         
-Minh Bui         
-Justin Carrillo         
-John Cavanaugh         
-Xiaoyi Chen         
-Brian Chu         
-Sushil Da Silva         
-Jason Dubaniewicz         
-Aboo B S Fatally         
-Timothy Feeney         
-Jonathon Fidiam         
-Fergus Frew         
-Daniel Garcia         
-Darryl Geary         
-Ruben Gutierrez-Priego         
+Corey Abshire          
+Luke Amdor          
+Alexandra T. Ashpole          
+Philip Bakes          
+George Barrell          
+Stefan Behnke          
+Eduard Bitterli          
+Anna Bogdanova          
+Wolfgang Braun          
+Minh Bui          
+Justin Carrillo          
+John Cavanaugh          
+Xiaoyi Chen          
+Brian Chu          
+Sushil Da Silva          
+Jason Dubaniewicz          
+Aboo B S Fatally          
+Timothy Feeney          
+Jonathon Fidiam          
+Fergus Frew          
+Daniel Garcia          
+Darryl Geary          
+Ruben Gutierrez-Priego          
 Hayssam Hajar
 {{< tdclose >}}{{< tdopen >}}
-Andrea Harman         
-Andrea M. Henshall         
-Jim Hillhouse         
-Gregory Hoke         
-Robert Jeffers         
-Abhishek Kamodia         
-Gregory Kashkin         
-Ulrich Kausch         
-Holger Kienle         
-Hans-Juergen Kiesow         
-Wiktor Kondrusiewicz         
-Kevin Larsen         
-Y. Charlotte Lau         
-David Lin         
-Dale Logan         
-Keith R. Milkove         
-Lara B. and Scott B. Morrison         
-Seanan Murphy         
-Yasen Nikolov         
-Jonas Pettersson         
-Katarzyna Piotrowska         
-Pongnarit Plengsangsri         
-William N. Pohlmann         
-Jordan Rahaman         
+Andrea Harman          
+Andrea M. Henshall          
+Jim Hillhouse          
+Gregory Hoke          
+Robert Jeffers          
+Abhishek Kamodia          
+Gregory Kashkin          
+Ulrich Kausch          
+Holger Kienle          
+Hans-Juergen Kiesow          
+Wiktor Kondrusiewicz          
+Kevin Larsen          
+Y. Charlotte Lau          
+David Lin          
+Dale Logan          
+Keith R. Milkove          
+Lara B. and Scott B. Morrison          
+Seanan Murphy          
+Yasen Nikolov          
+Jonas Pettersson          
+Katarzyna Piotrowska          
+Pongnarit Plengsangsri          
+William N. Pohlmann          
+Jordan Rahaman          
 Qing Ran
 {{< tdclose >}}{{< tdopen >}}
-John Rizzo         
-Ralph D. Samuelson         
-Michael Sandstrom         
-Sanjaya K. Saxena         
-Sean Silva         
-Ashley Sjodin         
-Leijun Song         
-Mike Speciner         
-Sira Sriswasdi         
-Martijn Stegeman         
-Philip P. Sung         
-Sittampalam Thirugnanasampanthan         
-Matthew Thornton         
-Christine Tolle         
-Merijn Van De Water         
-Thomas B. Wilson         
-Daniel Yu         
-Alper Yuce         
+John Rizzo          
+Ralph D. Samuelson          
+Michael Sandstrom          
+Sanjaya K. Saxena          
+Sean Silva          
+Ashley Sjodin          
+Leijun Song          
+Mike Speciner          
+Sira Sriswasdi          
+Martijn Stegeman          
+Philip P. Sung          
+Sittampalam Thirugnanasampanthan          
+Matthew Thornton          
+Christine Tolle          
+Merijn Van De Water          
+Thomas B. Wilson          
+Daniel Yu          
+Alper Yuce          
 Shun Zhu
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
