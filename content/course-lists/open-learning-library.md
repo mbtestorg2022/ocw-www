@@ -5,7 +5,7 @@ courses:
   title: Structure of Materials
 - id: courses/6-036-introduction-to-machine-learning-fall-2020
   title: Introduction to Machine Learning
-- id: courses/mathematics-for-computer-science
+- id: courses/6-042j-mathematics-for-computer-science-spring-2015
   title: Mathematics for Computer Science
 - id: courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019
   title: 'Pre-7.01: Getting up to Speed in Biology'
