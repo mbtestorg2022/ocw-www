@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: OCW would not be possible without the support of thousands of individuals
+  who donate each year. Your gift ensures we can keep OCW growing with new courses
+  and more rich resources.
 draft: false
 title: Why Give?
 uid: 81f177c8-d664-46ba-8f89-d73e96ea2c26
@@ -30,7 +33,7 @@ OCW has inspired a worldwide movement that now includes hundreds of universities
 
 #### **What is the impact of OCW on the world?**
 
-No one better captures the impact OCW has on the world than the thousands of learners who use OCW each day, a vibrant community of university and high school students, educators, and independent and lifelong learners from all over the world. To hear their stories, we invite you to {{% resource_link "97f17a5c-535a-41ca-92f2-0ddabeb067f7" "read a compilation of some of the inspirational feedback" %}} we've received over the years. We've created a 20th edition of the {{% resource_link "ad55bd88-185e-4279-b5ee-af634a03f21c" "OCW Book of Impact" %}} that recognizes this milestone. 
+No one better captures the impact OCW has on the world than the thousands of learners who use OCW each day, a vibrant community of university and high school students, educators, and independent and lifelong learners from all over the world. To hear their stories, we invite you to {{% resource_link "97f17a5c-535a-41ca-92f2-0ddabeb067f7" "read a compilation of some of the inspirational feedback" %}} we've received over the years. We've created a 20th edition of the {{% resource_link "832a2bd0-745d-4af2-b0b0-f96a2945a3d4" "OCW Book of Impact" %}} that recognizes this milestone. 
 
 To learn more about MIT OpenCourseWare's impact, {{% resource_link "396dda39-ae99-4d88-a63c-ce9d7d3d652b" "read our latest impact report" %}}.
 
