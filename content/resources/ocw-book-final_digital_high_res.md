@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-draft: ''
+draft: false
 file: /ocw-www/ocw-book-final_digital_high_res.pdf
 metadata:
   caption: ''
