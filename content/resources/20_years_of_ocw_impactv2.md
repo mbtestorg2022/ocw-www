@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-draft: ''
+draft: false
 file: /ocw-www/20_years_of_ocw_impactv2.pdf
 metadata:
   caption: ''
