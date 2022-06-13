@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: With this page we thank our supporters.
+description: 'With this page we thank our supporters. '
 draft: false
 title: Our Supporters
 uid: c7fec4ec-5db8-4c4f-af8b-169aa263c996
