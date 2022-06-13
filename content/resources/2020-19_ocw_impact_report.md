@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-draft: ''
+draft: false
 file: /ocw-www/2020-19_ocw_impact_report.pdf
 metadata:
   caption: ''
