@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-draft: ''
+draft: false
 file: /ocw-www/ocw-book-of-impact_online_final.pdf
 metadata:
   caption: ''
