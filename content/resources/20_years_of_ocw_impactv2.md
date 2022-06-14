@@ -8,6 +8,6 @@ metadata:
   credit: ''
   image_alt: ''
 resourcetype: Document
-title: 20_years_of_OCW_impact.v2.pdf
+title: 20 Year Anniversary Book of Impact
 uid: 832a2bd0-745d-4af2-b0b0-f96a2945a3d4
 ---
