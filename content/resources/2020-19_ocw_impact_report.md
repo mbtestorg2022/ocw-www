@@ -8,6 +8,6 @@ metadata:
   credit: ''
   image_alt: ''
 resourcetype: Document
-title: 2020-19_OCW_impact_report.pdf
+title: 2020 OCW Impact Report
 uid: 396dda39-ae99-4d88-a63c-ce9d7d3d652b
 ---
