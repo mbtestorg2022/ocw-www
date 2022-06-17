@@ -1,8 +1,8 @@
 ---
 content_type: page
-description: 'OCW would not be possible without the support of thousands of individuals
+description: OCW would not be possible without the support of thousands of individuals
   who donate each year. Your gift ensures we can keep OCW growing with new courses
-  and more rich resources. '
+  and more rich resources.
 draft: false
 title: Why Give?
 uid: 81f177c8-d664-46ba-8f89-d73e96ea2c26
