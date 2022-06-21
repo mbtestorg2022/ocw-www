@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: OCW supporter John Klug.
 draft: false
 title: John Klug
 uid: 6f93f8f1-e119-4d11-8148-7d0de8483d10
@@ -8,17 +9,13 @@ uid: 6f93f8f1-e119-4d11-8148-7d0de8483d10
 > 
 > *— John Klug*
 
-{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 {{< resource uuid="d14a2349-8f8b-4080-91c2-aa2b0be352d3" >}}
-{{< tdclose >}}{{< tdopen >}}
 
 Several years ago, \[MIT OpenCourseWare Director of External Relations\] Steve Carson joined me on my radio show, *Building A Better World*, to share the great story of OCW and the international movement that was following in its wake.
 
 At the time, I was highly aware of the growing contingent of American high school students disconnecting from education, and felt higher education needed to be more responsible – along with our local communities – in developing better ways to capture and spur on our national youth's imagination, vision and focus.
 
 By opening their courses to the world-at-large, MIT invited the general public into a spacious global living room (with many windows and myriad views) where great dialogues and teachings were taking place, and where concentrated knowledge was now available.
-
-{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 By deciding to become an OCW supporter, I created a little challenge for myself: find an empowering course that directly relates to my 20-year focus on global economic development.
 
