@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: OCW supporter Gene Sprouse.
 draft: false
 title: Gene Sprouse
 uid: 04779b02-0f0c-45d7-806e-ac653fc4f63a
@@ -8,15 +9,11 @@ uid: 04779b02-0f0c-45d7-806e-ac653fc4f63a
 > 
 > *— Gene Sprouse*
 
-{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 {{< resource uuid="5bfae4c5-c629-447d-b5da-044d2473ebda" >}}
-{{< tdclose >}}{{< tdopen >}}
 
 Gene Sprouse always had a passion for science and physics. Originally encouraged by his high school physics teacher, Sprouse nurtured his enthusiasm for physics through college and graduate school.
 
 As an MIT Class of 1963 alumnus, he has been a professor of physics for 38 years and has received numerous awards for his excellence in teaching.
-
-{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 Sprouse says, "I find the OpenCourseWare site to be rich with content, and when I was teaching at Stony Brook, I used it often when preparing my lectures and class notes. In particular the visualizations of electromagnetic fields in 8.02T are just fantastic teaching tools that should be shared widely."
 
