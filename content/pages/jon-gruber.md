@@ -11,15 +11,11 @@ uid: 57db5d1e-862d-4e14-92fd-eac91e142cf1
 
 {{< resource uuid="464bebf5-2d5c-46ce-89d4-4fde1a62c697" >}}
 
-{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-
 Jon Gruber (MIT class of 1964) supports MIT OpenCourseWare through a generous financial gift.
 
 An enthusiasm for what's "cutting edge" in technology has molded Jon Gruber's life, and has now made its mark on MIT OpenCourseWare.
 
 Gruber, an entrepreneur who is the president of Gruber & McBaine Capital Management, the company he founded in 1987, has been a consultant to government clients, a tech analyst, and now an investment advisor focused largely on technology stocks. In fact, he is known in some circles as "the father of technology investing."
-
-{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ## Deciding to make a gift
 
